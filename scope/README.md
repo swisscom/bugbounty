@@ -21,3 +21,6 @@ on non-declared or OUT-OF-SCOPE assets will be viewed as a violation of the
 Program Rules and any related report will be disregarded. In case a Swisscom
 asset is missing from the list, please contact the Bug Bounty team to validate
 and extend the scope accordingly.
+
+ * [IN-SCOPE](inscope.txt)
+ * [OUT-OF-SCOPE](out-of-scope.txt)
