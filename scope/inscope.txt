@@ -1,0 +1,167 @@
+# Swisscom Bug Bounty Program - IN-SCOPE Assets
+#
+# In principle, any Swisscom-owned assets are intended to be in scope of the
+# Program. This includes virtually all networks, systems, applications,
+# products, or services for which Swisscom holds operational responsibility.
+#
+# Likewise, assets from affiliated companies are also in scope if Swisscom AG
+# owns more than 50% of the company shares (exceptions may apply).
+#
+# Swisscom's customer systems or customer systems outsourced to Swisscom are
+# explicitly out of scope.
+#
+# The following enumeration is a non-exhaustive list of IN-SCOPE assets.
+# Program participants must ensure to restrict their research and testing
+# activities with regard to the scope defined in the IN-SCOPE and OUT-OF-SCOPE
+# lists. Note that items in the OUT-OF-SCOPE list take precedence over the
+# IN-SCOPE items. Testing on non-declared or OUT-OF-SCOPE assets will be viewed
+# as a violation of the Program Rules and any related report will be disregarded.
+# In case a Swisscom asset is missing from the list, please contact the Bug
+# Bounty team to validate and extend the scope accordingly.
+#
+# The authoritative source of the program scope is located at
+# https://github.com/swisscom/bugbounty/scope/
+
+# AdUnit AG
+*.adunit.ch
+*.adunit.tech
+
+# Ajila AG
+*.ajila.com
+*.digital.deals
+
+# Billag AG
+*.billag.ch
+
+# Blue Entertainment AG
+*.blue.ch
+*.bluecinema.ch
+*.cinetrade.ch
+*.jassfederal.ch
+*.kitag.com
+*.teleclub.ch
+
+# cablex AG
+*.cablex.ch
+
+# Daura AG
+*.daura.ch
+
+# Global IP Action AG
+*.globalipaction.ch
+
+# Innovative Web Marketing & Service AG
+*.i-web.ch
+
+# itnetX (Switzerland) AG
+*.itnetx.ch
+
+# JLS Digital AG
+*.jls.ch
+*.jls.digital
+
+# NGT International
+*.ngti.nl
+
+# Swisscom (Schweiz) AG
+*.bluewin.ch
+*.conextrade.com
+*.cura-med.ch
+*.curapacs.ch
+*.digitalassessment.ch
+*.ealarm-safemode.ch
+*.ehealthnet.ch
+*.evita.ch
+*.getkickbox.com
+*.h-net.ch
+*.hcard.ch
+*.health-connect.ch
+*.healthi.ch
+*.helloclass.ch
+*.jlr-connect.ch
+*.labnet.ch
+*.mccip.ch
+*.mdm-mobile.ch
+*.medicalconnector.ch
+*.medicalexchange.ch
+*.medicalshare.ch
+*.mtf.ch
+*.mtf.li
+*.mucc-services.ch
+*.mycloud.ch
+*.myservicecrm.ch
+*.paybillag.com
+*.pk-complan.ch
+*.pwlan.ch
+*.scbs.ch
+*.sctv.ch
+*.sinso.ch
+*.smeoffer.ch
+*.swisscom-alarm.ch
+*.swisscom-alarm.ch
+*.swisscom-flaechen.ch
+*.swisscom-health.ch
+*.swisscom-immobilien.ch
+*.swisscom-learningcenter.ch
+*.swisscom-printshop.ch
+*.swisscom-sharespace.com
+*.swisscom-umfrage.ch
+*.swisscom.ch
+*.swisscom.com
+*.swisscomras.ch
+*.swissdigicert.ch
+*.swisstrustroom.ch
+*.swisstrustroom.com
+*.triamed.ch
+*.volvo-online.ch
+*.vpch.ch
+*.webtiser.ch
+*.webtiser.com
+*.wingo.ch
+https://github.com/swisscom/
+swisscom.ecommerce-benchmark.com
+swisscom.shirthouse.ch
+
+# Swisscom Broadcast AG
+*.kimesurvey.ch
+*.sbcdc.ch
+*.sbctv.ch
+
+# Swisscom Digital Technology SA
+*.openwt.com
+*.openwt.io
+*.openwt.net
+*.swisscomdigital.tech
+*.swisscomdigital.technology
+*.swisscomdigitaltechnologies.com
+*.swisscomdigitaltechnology.ch
+*.swisscomdt.com
+
+# Swisscom Directories AG
+*.coiffeurvergleich.ch
+*.directories.ch
+*.directoriesdata.ch
+*.e-directories.ch
+*.fahrlehrervergleich.ch
+*.fotografvergleich.ch
+*.internal-local.ch
+*.local.ch
+*.localsearch.ch
+*.mycommerce.shop
+*.renovero.ch
+*.search.ch
+*.sitefree.ch
+*.swisslist.ch
+*.zahnartzvergleich.ch
+
+# Swisscom Event & Media Solutions AG
+*.asport.tv
+*.swisscomstream.ch
+*.zoon.ch
+
+# United Security Providers AG
+*.u-s-p.ch
+*.united-security-providers.ch
+
+# Worklink AG
+*.worklink.ch
