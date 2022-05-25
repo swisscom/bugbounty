@@ -66,4 +66,16 @@ secure.i-web.ch
 *.sfsnet.ch
 
 # tiko Energy Solutions AG
+*.tiko.at
 *.tiko.ch
+*.tiko.de
+*.tiko.energy
+*.tiko-energy.ch
+*.tiko-energy.com
+*.tikoenergy.com
+*.tiko.fr
+*.tiko.info
+*.tiko.net
+*.tiko.services
+*.tiko.swiss
+*.tiko.uk
