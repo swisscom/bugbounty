@@ -206,9 +206,8 @@ SpA](https://www.fastweb.it/) is explicitly out of scope.
 Swisscom's customer systems or customer systems outsourced to Swisscom 
 are explicitly out of scope. 
 
-A non-exhaustive list of assets is maintained here as an authoritative 
-source of the programme scope: 
-https://github.com/swisscom/bugbounty/scope. Participants must ensure to 
+A non-exhaustive list of assets is maintained here as an [authoritative 
+source of the programme scope](scope). Participants must ensure to 
 restrict their research and testing activities as defined in the 
 *in-scope* and *out-of-scope* lists. Note that items in the 
 *out-of-scope* list take precedence over the *in-scope* items. Testing 
@@ -221,8 +220,7 @@ team to validate and extend the scope accordingly.
 ### 5.3 Qualifying Vulnerabilities
 Any design, implementation or configuration issue that substantially 
 affects confidentiality or integrity is likely to be eligible for a 
-reward. Please refer to 
-https://github.com/swisscom/bugbounty/vulnerabilities for details. 
+reward. Please refer to [vulnerabilities](vulnerabilities) for details. 
 
 
 ### 5.4 Programme Rules

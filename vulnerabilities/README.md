@@ -1,4 +1,6 @@
-# Qualifying Vulnerabilties
+# Vulnerabilties
+
+## Qualifying Vulnerabilities
 Any design, implementation or configuration issue that substantially 
 affects confidentiality or integrity is likely to be eligible for a 
 reward. Common examples include: 
@@ -9,13 +11,15 @@ reward. Common examples include:
  * Horizontal and vertical privilege escalation
  * Broken authentication and session management
 
+## Non-Qualifying Vulnerabilities
 The following issues are not considered relevant under the Programme:
 
  * The absence of a security feature alone without demonstrated impact 
  * Disclosure of non-sensitive information, even in bulk
  * Denial-of-Service attacks
  * "Self" XSS
- * Missing Cookie flags or missing security-related HTTP headers without a demonstrated security impact
+ * Missing Cookie flags or missing security-related HTTP headers without 
+a demonstrated security impact 
  * Missing or incomplete SPF/DKIM/DMARC
  * Social engineering attacks 
  * *1-day vulnerabilities* are accepted four weeks after disclosure at the 
@@ -26,14 +30,14 @@ Moreover, in cases where we generally accept the security impact, we
 also exclude certain classes of vulnerabilities.
 
 
-## Excluded Vulnerabilities
+### Excluded Vulnerabilities
 
 | Date | Vulnerability | Comment |
 | --- | --- | --- |
 | Jan 2020 | Disclosure of unrestricted API keys | Disclosed API keys used for services like Google, Facebook, etc may lead to financial loss and/or denial of service if a quota is set and exhausted. These will no longer be considered as relevant for our Bug Bounty Programme. |
 | Dec 2020 | CWE-613 Insufficient Session Expiration | The attack has a rather high pre-requisite in order to be exploitable namely, initial access to the current session. We agree that the behavior of an affected system should be implemented in a better way and this missing security feature would only bring improvement but consider it below the threshold to qualify for our Bug Bounty Programme. |
 
-## Accepted 1-day Vulnerabilities
+### Accepted 1-day Vulnerabilities
 
 | Date | Vulnerability | Comment |
 | --- | --- | --- |
