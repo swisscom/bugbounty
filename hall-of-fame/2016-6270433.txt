@@ -1,0 +1,63 @@
+#############################################################
+#
+# SWISSCOM CSIRT ADVISORY
+# http://scm.to/00wR
+#
+#############################################################
+#
+# ID:       2016-6270433
+# Product:  Swisscom DSL Router Centro Grande (ARRIS/Motorola)
+# Vendor:   Swisscom Schweiz AG
+# Subject:  Cross-Site Request Forgery (CSRF), remotely exploitable
+# Finder:   Matthias Galliker (matt.galliker _at_ gmail.com)
+# Coord:    Philippe Cuany (csirt _at_ swisscom.com)
+# Date:     August 29th 2016
+#
+#############################################################
+
+
+Description
+-----------
+A vulnerability has been discovered that affects the session-handling in the
+Router Web Interface. An attacker could gain temporary admin access in a third
+party customer router.
+
+Product
+-------
+Swisscom Centro Grande v2 Router (ARRIS/Motorola) which have the remote access
+function activated (deactivated by default).
+
+Vulnerability
+-------------
+The flaw relates to the handling of the Anti-CSRF Nonce, which is not verified
+correctly and allows an attacker to have remote admin access to management functions
+that are normally reserved for the router owner. However, the router owner must
+have the "remote access" option activated, must be logged in the router interface
+and must visit a special crafted website, all at the same time. The vulnerability
+has been tested and is confirmed.
+
+Remediation
+-----------
+The remote access function has been deactivated on all routers. Router-owners who
+still want to use this feature have been briefed. In regards to the attack
+complexity and the reduced impact (due to mitigation) it is not planned to roll-out
+a new firmware in a nearly future.
+
+Common Vulnerability Scoring (Version 3) and vector
+---------------------------------------------------
+CVSS:3.0/AV:N/AC:H/PR:N/UI:R/S:C/C:H/I:H/A:H/E:P/RL:W/RC:C
+CVSS Base Score         8.3
+CVSS Temporal Score     7.6
+
+
+Acknowledgments
+---------------
+Matthias Galliker for the discovery and notification of the vulnerability.
+
+Milestones
+----------
+Mar 29th 2016   Vulnerability reported to Swisscom CSIRT
+Apr 26th 2016   Vulnerability confirmed (tested) by Swisscom CSIRT
+Mai 20th 2016   CVE ID requested at MITRE.
+Mai 24th 2016   Assigning our own ID according MITRE Feedback
+Aug 29th 2016   Public Release of Advisory
