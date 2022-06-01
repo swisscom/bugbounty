@@ -221,24 +221,7 @@ team to validate and extend the scope accordingly.
 ### 5.3 Qualifying Vulnerabilities
 Any design, implementation or configuration issue that substantially 
 affects confidentiality or integrity is likely to be eligible for a 
-reward. Common examples include: 
-
- * Remote code execution (RCE)
- * Code injections (HTML, JS, SQL, PHP, etc)
- * Cross-site scripting (XSS)
- * Horizontal and vertical privilege escalation
- * Broken authentication and session management
-
-The following issues are not considered relevant under the Programme:
-
- * The absence of a security feature alone without demonstrated impact 
- * Disclosure of non-sensitive information, even in bulk
- * 1-day vulnerabilities are accepted four weeks after disclosure at the 
-earliest (exceptions may apply). Most non-critical patches are applied 
-during standard maintenance windows.
-
-Moreover, in cases where we generally accept the security impact, we 
-also exclude certain classes of vulnerabilities. Please refer to 
+reward. Please refer to 
 https://github.com/swisscom/bugbounty/vulnerabilities for details. 
 
 
@@ -448,7 +431,7 @@ duties.
 ### 5.7 Public Recognition
 Swisscom may publicly recognise individuals who have reported 
 considerable vulnerabilities under the Programme and been awarded 
-Bounties. 
+Bounties.
 
 Swisscom may, at its discretion, give you recognition on websites or 
 other printed materials, unless you explicitly ask us not to include 

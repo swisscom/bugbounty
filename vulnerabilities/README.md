@@ -13,6 +13,11 @@ The following issues are not considered relevant under the Programme:
 
  * The absence of a security feature alone without demonstrated impact 
  * Disclosure of non-sensitive information, even in bulk
+ * Denial-of-Service attacks
+ * "Self" XSS
+ * Missing Cookie flags or missing security-related HTTP headers without a demonstrated security impact
+ * Missing or incomplete SPF/DKIM/DMARC
+ * Social engineering attacks 
  * *1-day vulnerabilities* are accepted four weeks after disclosure at the 
 earliest (see exceptions below). Most non-critical patches are applied 
 during standard maintenance windows.
