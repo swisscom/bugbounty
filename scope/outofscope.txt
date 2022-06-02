@@ -1,0 +1,75 @@
+# Swisscom Bug Bounty Programme - OUT-OF-SCOPE Assets
+#
+# Program participants must ensure to restrict their research and testing
+# activities to the scope as defined in the IN-SCOPE and OUT-OF-SCOPE lists.
+# Note that items in the OUT-OF-SCOPE list take precedence over the IN-SCOPE
+# items. Testing on non-declared or OUT-OF-SCOPE assets will be viewed as a
+# violation of the Programme Rules and any report on such will be disregarded.
+# If a Swisscom asset is missing from the list, please contact the Bug
+# Bounty team to validate and extend the scope accordingly.
+#
+# The authoritative source of the program scope is located at
+# https://github.com/swisscom/bugbounty/scope/
+#
+# File generation timestamp: 2022-06-02 02:11:37
+
+# Admeira AG
+*.admeira.ch
+
+# Custodigit AG
+*.custodigit.com
+
+# Datasport AG
+*.datasport.ch
+
+# Fastweb
+*.fastweb.it
+
+# Innovative Web Marketing & Service AG
+kunden.i-web.ch
+secure.i-web.ch
+
+# LOCAL.fr
+*.local.fr
+
+# Mila AG
+*.mila.cloud
+*.mila.com
+
+# Swisscom (Schweiz) AG
+*.coopmobile.ch
+*.cust.swisscom.ch
+*.cust.wingo.ch
+*.energie-klimapioniere.ch
+*.homepagetool.ch
+*.hostcenter.com
+*.klimapioniere.ch
+*.mtf-ti.ch
+*.mtfcloud.ch
+*.pcwtag.itservices.ch
+*.pub.wingo.ch
+*.scene7.com
+*.sfsnet.ch
+shop.m-budget.migros.ch
+
+# autoSense AG
+*.autosense.ch
+
+# myStrom AG
+*.mystrom.ch
+
+# tiko Energy Solutions AG
+*.tiko-energy.ch
+*.tiko-energy.com
+*.tiko.at
+*.tiko.ch
+*.tiko.de
+*.tiko.energy
+*.tiko.fr
+*.tiko.info
+*.tiko.net
+*.tiko.services
+*.tiko.swiss
+*.tiko.uk
+*.tikoenergy.com
+
