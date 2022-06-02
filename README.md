@@ -366,7 +366,7 @@ To support our triage process, please observe the following guidelines
 when submitting reports: 
 
  * The vulnerability must affect an in-scope asset (see [Programme 
-Scope](#52-programme-scope) and must qualify for the Programme (see 
+Scope](#52-programme-scope)) and must qualify for the Programme (see 
 [Qualifying Vulnerabilities](#53-qualifying-vulnerabilities)). 
  2. You must send a clear, written description of the report along with 
 step-by-step instructions to identify the affected asset and to 
@@ -391,7 +391,7 @@ and you will be asked to validate the remediation measures.
 
 The following requirements for awarding a Bounty apply:
  * The vulnerability must affect an in-scope asset (see [Programme 
-Scope](#52-programme-scope) and must qualify for the Programme (see 
+Scope](#52-programme-scope)) and must qualify for the Programme (see 
 [Qualifying Vulnerabilities](#53-qualifying-vulnerabilities)). 
  * You must be the first reporter of the vulnerability.
  * Reports on vulnerabilities having the same root cause (remediation in 
