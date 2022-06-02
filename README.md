@@ -20,7 +20,8 @@ Moreover, we invite both private individuals and legal entities to
 participate in our [Bug Bounty Programme](#5-bug-bounty-programme) 
 (hereinafter the "Programme") in accordance with the [Programme 
 Rules](#54-programme-rules). Bounties may be awarded for reporting 
-qualifying and in-scope vulnerabilities. 
+[qualifying](#53-qualifying-vulnerabilities) and 
+[in-scope](#52-programme-scope) vulnerabilities. 
 
 Swisscom acknowledges the value of contributions from the security 
 researcher community and highly appreciates the efforts made by the 
@@ -364,8 +365,9 @@ own.
 To support our triage process, please observe the following guidelines 
 when submitting reports: 
 
- 1. The vulnerability must affect an in-scope asset (see Programme Scope) 
-and must qualify for the Programme (see Qualifying Vulnerabilities). 
+ * The vulnerability must affect an in-scope asset (see [Programme 
+Scope](#52-programme-scope) and must qualify for the Programme (see 
+[Qualifying Vulnerabilities](#53-qualifying-vulnerabilities)). 
  2. You must send a clear, written description of the report along with 
 step-by-step instructions to identify the affected asset and to 
 reproduce the issue. Include attachments such as screenshots or 
@@ -390,7 +392,7 @@ and you will be asked to validate the remediation measures.
 The following requirements for awarding a Bounty apply:
  * The vulnerability must affect an in-scope asset (see [Programme 
 Scope](#52-programme-scope) and must qualify for the Programme (see 
-[Qualifying Vulnerabilities](#53-qualifying-vulnerabilities). 
+[Qualifying Vulnerabilities](#53-qualifying-vulnerabilities)). 
  * You must be the first reporter of the vulnerability.
  * Reports on vulnerabilities having the same root cause (remediation in 
 a single point), as well as enumeration of identical vulnerabilities may 
