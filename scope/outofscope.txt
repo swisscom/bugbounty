@@ -1,32 +1,20 @@
-# Swisscom Bug Bounty Program - OUT-OF-SCOPE Assets
+# Swisscom Bug Bounty Programme - OUT-OF-SCOPE Assets
 #
-# In principle, any Swisscom-owned assets are intended to be in scope of the
-# Program. This includes virtually all networks, systems, applications,
-# products, or services for which Swisscom holds operational responsibility.
-#
-# Likewise, assets from affiliated companies are also in scope if Swisscom AG
-# owns more than 50% of the company shares (exceptions may apply).
-#
-# Swisscom's customer systems or customer systems outsourced to Swisscom are
-# explicitly out of scope.
-#
-# The following enumeration is a non-exhaustive list of OUT-OF-SCOPE assets.
 # Program participants must ensure to restrict their research and testing
-# activities with regard to the scope defined in the IN-SCOPE and OUT-OF-SCOPE
-# lists. Note that items in the OUT-OF-SCOPE list take precedence over the
-# IN-SCOPE items. Testing on non-declared or OUT-OF-SCOPE assets will be viewed
-# as a violation of the Program Rules and any related report will be disregarded.
-# In case a Swisscom asset is missing from the list, please contact the Bug
+# activities to the scope as defined in the IN-SCOPE and OUT-OF-SCOPE lists.
+# Note that items in the OUT-OF-SCOPE list take precedence over the IN-SCOPE
+# items. Testing on non-declared or OUT-OF-SCOPE assets will be viewed as a
+# violation of the Programme Rules and any report on such will be disregarded.
+# If a Swisscom asset is missing from the list, please contact the Bug
 # Bounty team to validate and extend the scope accordingly.
 #
 # The authoritative source of the program scope is located at
 # https://github.com/swisscom/bugbounty/scope/
+#
+# File generation timestamp: 2022-06-02 02:11:37
 
 # Admeira AG
 *.admeira.ch
-
-# autoSense AG
-*.autosense.ch
 
 # Custodigit AG
 *.custodigit.com
@@ -41,17 +29,15 @@
 kunden.i-web.ch
 secure.i-web.ch
 
-# LOCAL.FR
+# LOCAL.fr
 *.local.fr
 
 # Mila AG
 *.mila.cloud
 *.mila.com
 
-# myStrom AG
-*.mystrom.ch
-
 # Swisscom (Schweiz) AG
+*.coopmobile.ch
 *.cust.swisscom.ch
 *.cust.wingo.ch
 *.energie-klimapioniere.ch
@@ -64,18 +50,26 @@ secure.i-web.ch
 *.pub.wingo.ch
 *.scene7.com
 *.sfsnet.ch
+shop.m-budget.migros.ch
+
+# autoSense AG
+*.autosense.ch
+
+# myStrom AG
+*.mystrom.ch
 
 # tiko Energy Solutions AG
+*.tiko-energy.ch
+*.tiko-energy.com
 *.tiko.at
 *.tiko.ch
 *.tiko.de
 *.tiko.energy
-*.tiko-energy.ch
-*.tiko-energy.com
-*.tikoenergy.com
 *.tiko.fr
 *.tiko.info
 *.tiko.net
 *.tiko.services
 *.tiko.swiss
 *.tiko.uk
+*.tikoenergy.com
+
