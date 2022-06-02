@@ -1,4 +1,4 @@
-# Vulnerabilties
+# Vulnerabilities
 
 ## Qualifying Vulnerabilities
 Any design, implementation or configuration issue that substantially 
