@@ -22,13 +22,9 @@ The following issues are not considered relevant under the Programme:
 a demonstrated security impact 
  * Missing or incomplete SPF/DKIM/DMARC
  * Social engineering attacks 
- * *1-day vulnerabilities* are accepted four weeks after disclosure at the 
-earliest (see exceptions below). Most non-critical patches are applied 
-during standard maintenance windows.
 
 Moreover, in cases where we generally accept the security impact, we 
 also exclude certain classes of vulnerabilities.
-
 
 ### Excluded Vulnerabilities
 
@@ -36,6 +32,11 @@ also exclude certain classes of vulnerabilities.
 | --- | --- | --- |
 | Jan 2020 | Disclosure of unrestricted API keys | Disclosed API keys used for services like Google, Facebook, etc may lead to financial loss and/or denial of service if a quota is set and exhausted. These will no longer be considered as relevant for our Bug Bounty Programme. |
 | Dec 2020 | CWE-613 Insufficient Session Expiration | The attack has a rather high pre-requisite in order to be exploitable namely, initial access to the current session. We agree that the behavior of an affected system should be implemented in a better way and this missing security feature would only bring improvement but consider it below the threshold to qualify for our Bug Bounty Programme. |
+
+## 1-Day Vulnerabilities
+Most non-critical patches are applied during standard maintenance 
+windows. Therefore, *1-day vulnerabilities* are accepted four weeks 
+after disclosure at the earliest (see exceptions below). 
 
 ### Accepted 1-day Vulnerabilities
 
