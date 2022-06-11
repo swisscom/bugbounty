@@ -269,6 +269,9 @@ parties.
 measures to minimise the impact of your testing activity. For example, 
 make sure you know what you are doing when using automated tools and 
 limit your requests per second. 
+ 4. If you assume that the availability of a tested system was impaired 
+due to your testing activities despite all precautions taken, please 
+inform the Bug Bounty Team immediately. 
 
 
 #### 5.4.3 Confidentiality
@@ -397,7 +400,7 @@ Scope](#52-programme-scope)) and must qualify for the Programme (see
  * Reports on vulnerabilities having the same root cause (remediation in 
 a single point), as well as enumeration of identical vulnerabilities may 
 be merged into one report. In this case, the awarded Bounty would 
-consist of a base reward + bonus for each additional finding. 
+consist of a base reward + bonus for each additional finding.
 
 
 #### 5.6.1 Payment modalities
