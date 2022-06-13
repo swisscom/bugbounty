@@ -43,11 +43,13 @@ secure.i-web.ch
 *.energie-klimapioniere.ch
 *.homepagetool.ch
 *.hostcenter.com
+*.internet-box.ch
 *.klimapioniere.ch
 *.mtf-ti.ch
 *.mtfcloud.ch
 *.pcwtag.itservices.ch
 *.pub.wingo.ch
+*.rnas-dyn.bluewin.ch
 *.scene7.com
 *.sfsnet.ch
 shop.m-budget.migros.ch
