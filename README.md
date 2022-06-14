@@ -365,20 +365,19 @@ own.
 
 
 ### 5.5 Reporting Guidelines
-To support our triage process, please observe the following guidelines 
-when submitting reports: 
+To support our triage process your report must contain all the 
+information required for us to confirm the vulnerability. This includes: 
 
- * The vulnerability must affect an in-scope asset (see [Programme 
-Scope](#52-programme-scope)) and must qualify for the Programme (see 
-[Qualifying Vulnerabilities](#53-qualifying-vulnerabilities)). 
- 2. You must send a clear, written description of the report along with 
-step-by-step instructions to identify the affected asset and to 
-reproduce the issue. Include attachments such as screenshots or 
+ 1. All information required to identify the affected asset
+ 2. The type of security vulnerability
+ 3. A clear and comprehensible description of the vulnerability along 
+with step-by-step instructions to reproduce a potential exploitation. 
+Include attachments such as screenshots, HTTP traffic logs or 
 proof-of-concept code, as necessary. 
- 3. The written description of the report must contain a timestamp and 
-source IP address for your attack attempt so we can identify your 
-requests in the log files. In addition, you may also use distinctive 
-identifiers in your requests, where applicable. For example: 
+ 4. In order for us to identify your requests in the logs, please 
+provide indicators of your activity such as your source IP address along 
+with a time frame and any other distinctive identifiers, where 
+applicable. For example: 
     * Set a distinctive reverse DNS entry for your IP address 
     * Append the string `-bugbounty-<username>` to the User-Agent 
 header for HTTP requests 
