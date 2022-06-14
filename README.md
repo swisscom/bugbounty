@@ -1,5 +1,3 @@
-# Swisscom Vulnerability Disclosure Policy & Bug Bounty Programme 
-
 ![Swisscom Bug Bounty Programme](/assets/images/SCBB.png)
 
 ## 1 Introduction
