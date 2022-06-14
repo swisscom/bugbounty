@@ -386,10 +386,14 @@ header for HTTP requests
 
 ### 5.6 Rewards
 Monetary Rewards (hereinafter “Bounties”) for Reports may be awarded 
-at Swisscom's full discretion. The Bounty amount depends on the business 
-criticality of the reported vulnerability, the impacted system or data, 
-and on the quality of the documentation provided to Swisscom. In 
-general, rewards will be paid after remediation of the vulnerability, 
+at Swisscom's full discretion. The Bug Bounty team determines the Bounty 
+amount based on 
+
+ * the technical impact of the reported vulnerability
+ * the business criticality of the impacted system or data
+ * the quality of the documentation provided to Swisscom
+
+In general, rewards will be paid after remediation of the vulnerability, 
 and you will be asked to validate the remediation measures. 
 
 The following requirements for awarding a Bounty apply:
