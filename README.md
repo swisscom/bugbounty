@@ -1,5 +1,7 @@
 # Swisscom Vulnerability Disclosure Policy & Bug Bounty Programme 
 
+![Swisscom Bug Bounty Programme](/assets/images/SCBB.png)
+
 ## 1 Introduction
 We, Swisscom Ltd and our affiliated companies (hereinafter "Swisscom") 
 aim to design and operate our products and services according to the 
