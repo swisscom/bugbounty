@@ -1,4 +1,4 @@
-![Swisscom Bug Bounty Programme](/assets/images/SCBB.png)
+![Swisscom Bug Bounty Programme](assets/images/SCBB.png)
 
 ## 1 Introduction
 We, Swisscom Ltd and our affiliated companies (hereinafter "Swisscom") 
