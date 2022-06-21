@@ -446,7 +446,6 @@
 *.pionniers-energie-climat.ch
 *.pionniersduclimat.ch
 *.pirateshub.ch
-*.pk-complan.ch
 *.plauderbox.ch
 *.pme-businessworld.ch
 *.pmeappstore.ch
