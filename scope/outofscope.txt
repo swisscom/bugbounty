@@ -25,10 +25,6 @@
 # Fastweb
 *.fastweb.it
 
-# Innovative Web Marketing & Service AG
-kunden.i-web.ch
-secure.i-web.ch
-
 # LOCAL.fr
 *.local.fr
 
