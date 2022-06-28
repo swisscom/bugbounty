@@ -893,6 +893,7 @@ swisscom.shirthouse.ch
 
 # Swisscom Directories AG
 *.coiffeurvergleich.ch
+*.digitalone.ch
 *.directories.ch
 *.directoriesdata.ch
 *.e-directories.ch
