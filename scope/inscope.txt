@@ -896,6 +896,7 @@ swisscom.shirthouse.ch
 *.directories.ch
 *.directoriesdata.ch
 *.e-directories.ch
+*.etv.ch
 *.fahrlehrervergleich.ch
 *.fotografvergleich.ch
 *.internal-local.ch
@@ -903,6 +904,7 @@ swisscom.shirthouse.ch
 *.localcities.ch
 *.localsearch.ch
 *.mycommerce.shop
+*.multisource.ch
 *.renovero.ch
 *.search.ch
 *.sitefree.ch
