@@ -45,16 +45,16 @@ by e-mail.
   </tr>
   <tr>
     <td>PGP key ID</td>
-    <td>350B4B73FA225C67</td>
+    <td>D7DD5D676F08666B</td>
   </tr>
   <tr>
     <td>PGP fingerprint</td>
-    <td>28E7 E4D0 7ED7 9083 A93C 03B2 350B 4B73 FA22 5C67</td>
+    <td>32C7 3D84 51B9 0D71 F966 1FD3 D7DD 5D67 6F08 666B</td>
   </tr>
   <tr>
     <td>PGP public key</td>
 	<td>
-	 <a href="https://www.swisscom.ch/content/dam/swisscom/de/about/nachhaltigkeit/digitale-schweiz/sicherheit/bug-bounty/files/bug-bounty_04072020-04072022.asc">
+	 <a href="https://github.com/swisscom/bugbounty/blob/main/assets/pgp/bug-bounty_18062022-17062024.asc">
 	  Public key
 	 </a>
 	</td>
