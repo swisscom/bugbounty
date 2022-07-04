@@ -187,6 +187,11 @@
 # NGT International
 *.ngti.nl
 
+# MTF Solutions AG
+# MTF Solutions AG is an established provider of IT services for SMEs. For each asset mentioned in the bug report, we have to clarify whether it is an MTF operated system or owned/maintaind by one of its customers. Please contact the bug bounty team (bug.bounty@swisscom.com) to assess if a specific domain can be accepted as in scope or not.
+*.mtf.ch
+*.mtf.li
+
 # Swisscom (Schweiz) AG
 *.1811.ch
 *.1812.ch
@@ -396,8 +401,6 @@
 *.mobile-unlimited.com
 *.mobile-unlimited.net
 *.mobilenature.ch
-*.mtf.ch
-*.mtf.li
 *.mucc-services.ch
 *.my-bluewin.ch
 *.my-swisscom.ch
