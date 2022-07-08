@@ -21,7 +21,9 @@ The following issues are not considered relevant under the Programme:
  * Missing Cookie flags or missing security-related HTTP headers without 
 a demonstrated security impact 
  * Missing or incomplete SPF/DKIM/DMARC
- * Social engineering attacks 
+ * Social engineering attacks
+ * Reports from automated tools or scans without explanatory documentation
+ * Missing Rate limiting without further security impact
 
 Moreover, in cases where we generally accept the security impact, we 
 also exclude certain classes of vulnerabilities.
