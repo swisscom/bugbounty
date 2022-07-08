@@ -33,6 +33,7 @@ also exclude certain classes of vulnerabilities.
 | Jan 2020 | Disclosure of unrestricted API keys | Disclosed API keys used for services like Google, Facebook, etc may lead to financial loss and/or denial of service if a quota is set and exhausted. These will no longer be considered as relevant for our Bug Bounty Programme. |
 | Dec 2020 | CWE-613 Insufficient Session Expiration | The attack has a rather high pre-requisite in order to be exploitable namely, initial access to the current session. We agree that the behavior of an affected system should be implemented in a better way and this missing security feature would only bring improvement but consider it below the threshold to qualify for our Bug Bounty Programme. |
 | Jun 2022 | XSS in legacy Browsers | Cross-site scripting (XSS) in legacy browsers such as Microsoft Internet Explorer will no longer be considered for our Bug Bounty Programme |
+| Jul 2022 | CVE-2019-12616, CSRF in phpMyAdmin < 4.9.0 | Proof-of-concept requires user interaction, which violates our [policy on social engineering](https://github.com/swisscom/bugbounty#547-social-engineering). After weighing out the risk it was decided that this attack will no longer be considered as relevant for our Bug Bounty Programme. |
 
 ## 1-Day Vulnerabilities
 Most non-critical patches are applied during standard maintenance 
