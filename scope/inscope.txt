@@ -188,9 +188,11 @@
 *.ngti.nl
 
 # MTF Solutions AG
-# MTF Solutions AG is an established provider of IT services for SMEs. For each asset mentioned in the bug report, we have to clarify whether it is an MTF operated system or owned/maintaind by one of its customers. Please contact the bug bounty team (bug.bounty@swisscom.com) to assess if a specific domain can be accepted as in scope or not.
-*.mtf.ch
-*.mtf.li
+api.mailarchiver.mtfcloud.ch
+bgv.filecloud.mtfcloud.ch
+filecloud.mtfcloud.ch
+status.mtfcloud.ch
+zabbix.mtf.li
 
 # Swisscom (Schweiz) AG
 *.1811.ch
@@ -895,24 +897,73 @@ swisscom.shirthouse.ch
 *.swisscomdt.com
 
 # Swisscom Directories AG
+*.akupunkturvergleich.ch
+*.apotheken-vergleich.ch
+*.augenarztvergleich.ch
+*.bestattungsvergleich.ch
+*.bijouterie-vergleich.ch
+*.bodenlegervergleich.ch
+*.bäckereivergleich.ch
+*.cateringvergleich.ch
+*.coaching-vergleich.ch
 *.coiffeurvergleich.ch
+*.consultingvergleich.ch
 *.digitalone.ch
 *.directories.ch
 *.directoriesdata.ch
+*.druckereien-vergleich.ch
 *.e-directories.ch
+*.elektrikervergleich.ch
+*.ernaehrungsberatungsvergleich.ch
 *.etv.ch
 *.fahrlehrervergleich.ch
+*.fenster-türe-vergleich.ch
+*.fitnessstudio-vergleich.ch
+*.floristvergleich.ch
+*.fondue-vergleich.ch
 *.fotografvergleich.ch
+*.fotografvergleich.ch
+*.garage-vergleich.ch
+*.gartenbauvergleich.ch
+*.gu-vergleich.ch
+*.hautarztvergleich.ch
+*.immoverwaltungsvergleich.ch
+*.informatikervergleich.ch
+*.innenarchitektvergleich.ch
 *.internal-local.ch
+*.kinderarztvergleich.ch
+*.kinderkrippen-vergleich.ch
+*.kosmetikvergleich.ch
 *.local.ch
 *.localcities.ch
 *.localsearch.ch
-*.mycommerce.shop
+*.maler-gipser-vergleich.ch
+*.massagevergleich.ch
+*.metzgereivergleich.ch
 *.multisource.ch
+*.mycommerce.shop
+*.nachhilfevergleich.ch
+*.nagelstudiovergleich.ch
+*.optiker-vergleich.ch
+*.osteopathievergleich.ch
+*.pannenhilfevergleich.ch
+*.pflegeheimvergleich.ch
+*.physiotherapievergleich.ch
+*.reinigungsfirmavergleich.ch
+*.reisebuerovergleich.ch
 *.renovero.ch
+*.sanitaervergleich.ch
+*.schreinervergleich.ch
 *.search.ch
 *.sitefree.ch
 *.swisslist.ch
+*.tanzschulvergleich.ch
+*.tennisclubvergleich.ch
+*.tierarztvergleich.ch
+*.umzugsfirma-vergleich.ch
+*.veloshop-vergleich.ch
+*.wellness-spa-vergleich.ch
+*.yoga-pilates-vergleich.ch
 *.zahnartzvergleich.ch
 
 # Swisscom Event & Media Solutions AG

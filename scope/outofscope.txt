@@ -56,6 +56,14 @@ shop.m-budget.migros.ch
 # myStrom AG
 *.mystrom.ch
 
+# MTF Solutions AG
+autodiscover.mtf-ti.ch
+webapp.rk8s.94957.mtfcloud.ch
+prometheus.rk8s.94946.mtfcloud.ch
+grafana.rk8s.94946.mtfcloud.ch
+mail.mtf-ti.ch
+outlook.mtf-ti.ch
+
 # tiko Energy Solutions AG
 *.tiko-energy.ch
 *.tiko-energy.com
