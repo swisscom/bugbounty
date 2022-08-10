@@ -10,6 +10,7 @@ reward. Common examples include:
  * Cross-site scripting (XSS)
  * Horizontal and vertical privilege escalation
  * Broken authentication and session management
+ * Sensitive data exposure
 
 ## Non-Qualifying Vulnerabilities
 The following issues are not considered relevant under the Programme:
