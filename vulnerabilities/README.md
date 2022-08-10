@@ -45,6 +45,9 @@ windows. Therefore, *1-day vulnerabilities* are accepted four weeks
 after disclosure at the earliest (see exceptions below). 
 
 ### Accepted 1-day Vulnerabilities
+Special cases where information on 1-day vulnerabilities is explicitly 
+desired are listed below. For any clarifications regarding this list, 
+please contact the Bug Bounty team. 
 
 | Date | Vulnerability | Comment |
 | --- | --- | --- |

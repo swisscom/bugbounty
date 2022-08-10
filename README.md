@@ -152,6 +152,9 @@ today:
  * Open scope including all enterprise assets
  * Open-ended, unlimited duration
 
+The programme is self-managed, offers a wide range of technologies and 
+vulnerability reports are triaged in-house by Swisscom employees.
+
 Participants are permitted to perform tests and investigations within 
 the systems provided they act in good faith and respect the scope and 
 rules described below. 
