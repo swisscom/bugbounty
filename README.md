@@ -242,23 +242,15 @@ right to terminate or discontinue the Programme at its discretion.
 
 
 #### 5.4.1 Registration
-To participate in the Swisscom Bug Bounty Programme:
- 1. You must register an account via our Bug Bounty Portal
- 2. You must create a ticket of type "Register for Swisscom's Bug Bounty 
-programme": 
-   * You must provide your name and postal address as well as a copy of an 
-identity document (e.g. passport or ID card) 
-   * You are required to provide your bank details in order to receive 
-Bounty payments (see below: [Payment 
+To participate in the Swisscom Bug Bounty Programme you must register an 
+account via our [Bug Bounty 
+Portal](https://issue.swisscom.ch/servicedesk/customer/portal/3). 
+Reports submitted via any other channel will be disregarded. In order to 
+receive bounty payments, you will be required to provide: 
+ * your name and postal address
+ * a copy of an identity document (e.g. passport or ID card)
+ * your bank details (see also [Payment 
 modalities](#561-payment-modalities)) 
-   * You must confirm that you have read these rules and will follow them 
- 3. You must wait for confirmation of your registration from the Bug 
-Bounty team before starting any research and testing 
-
-You are required to register before starting any research and testing 
-activity on our infrastructure. Reports originating from unknown 
-participants will be disregarded and viewed as a violation of the 
-Programme Rules. 
 
 
 #### 5.4.2 Impact on operations
