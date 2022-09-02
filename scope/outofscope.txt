@@ -22,7 +22,8 @@
 # Datasport AG
 *.datasport.ch
 
-# Fastweb
+# Fastweb SpA
+# instead see: https://www.fastweb.it/corporate/responsible-disclosure/?lng=EN
 *.fastweb.it
 
 # LOCAL.fr
@@ -58,11 +59,12 @@ shop.m-budget.migros.ch
 
 # MTF Solutions AG
 autodiscover.mtf-ti.ch
-webapp.rk8s.94957.mtfcloud.ch
-prometheus.rk8s.94946.mtfcloud.ch
 grafana.rk8s.94946.mtfcloud.ch
+keycloak.rk8s.94946.mtfcloud.ch
 mail.mtf-ti.ch
 outlook.mtf-ti.ch
+prometheus.rk8s.94946.mtfcloud.ch
+webapp.rk8s.94957.mtfcloud.ch
 
 # tiko Energy Solutions AG
 *.tiko-energy.ch
