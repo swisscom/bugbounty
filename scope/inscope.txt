@@ -21,6 +21,9 @@
 *.ajila.com
 *.digital.deals
 
+# autoSense AG
+*.autosense.ch
+
 # Blue Entertainment AG
 *.blue-action.ch
 *.blue-app.ch

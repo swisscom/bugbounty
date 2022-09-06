@@ -51,9 +51,6 @@
 *.sfsnet.ch
 shop.m-budget.migros.ch
 
-# autoSense AG
-*.autosense.ch
-
 # myStrom AG
 *.mystrom.ch
 
