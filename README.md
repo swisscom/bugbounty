@@ -27,6 +27,13 @@ Swisscom acknowledges the value of contributions from the security
 researcher community and highly appreciates the efforts made by the 
 reporting party. We thank you in advance for your contribution! 
 
+*TL;DR* Swisscom Bug Bounty
+ * Public programme
+ * Scope includes all enterprise assets
+ * Rewards from CHF 100 to CHF 10'000
+ * Safe Harbor Policy
+ * In-house triage by Swisscom team
+
 
 ## 2 Contact Information
 To take part in our Bug Bounty Programme, please register and submit 
@@ -380,8 +387,8 @@ header for HTTP requests
 
 ### 5.6 Rewards
 Monetary Rewards (hereinafter “Bounties”) for Reports may be awarded 
-at Swisscom's full discretion. The Bug Bounty team determines the Bounty 
-amount based on 
+at Swisscom's full discretion. The awarded bounties range from CHF 100 
+to CHF 10'000. The Bug Bounty team determines the Bounty amount based on 
 
  * the technical impact of the reported vulnerability
  * the business criticality of the impacted system or data

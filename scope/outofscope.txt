@@ -10,8 +10,6 @@
 #
 # The authoritative source of the program scope is located at
 # https://github.com/swisscom/bugbounty/scope/
-#
-# File generation timestamp: 2022-06-02 02:11:37
 
 # Admeira AG
 *.admeira.ch
