@@ -1,0 +1,62 @@
+####################################################################################
+#
+# SWISSCOM CSIRT ADVISORY
+# https://www.swisscom.ch/en/about/company/portrait/network/security/bug-bounty.html
+#
+####################################################################################
+#
+# Product:  Swisscom Internet-Box
+# Vendor:   Swisscom
+# Subject:  Missing authentication and CSRF countermeasure in ring test API
+# CVSS:3.0/AV:A/AC:L/PR:N/UI:R/S:C/C:N/I:L/A:L (base score 5.2)
+# Finder:   Matthias Galliker - (matt.galliker _at_ gmail.com)
+# Coord:    Stéphane Grundschober (csirt _at_ swisscom.com)
+# Date:     June 4 2019
+# Advisory URL: https://www.swisscom.ch/content/dam/swisscom/de/about/nachhaltigkeit/digitale-schweiz/sicherheit/bug-bounty/files/scbb-2629-ib-ring.txt
+#
+####################################################################################
+
+
+Description
+-----------
+It is possible from the LAN side of Swisscom's Internet Box to repeatedly trigger the 
+"ring test" of attached phones. An attacker could convince a victim to go to a malicious
+website, which would trigger the ring test until the victim leaves the malicious website.
+
+Affected Product
+----------------
+The following Internet Boxes are affected:
+- Internet Box 2  prior to 10.01.38 (February 2019)
+- Internet Box Standard, Internet Box Plus prior to 10.01.36 (February 2019)
+
+
+Vulnerability
+-------------
+The "ring test" API on the LAN side of the Internet Box does not require authentication
+headers, and is missing CSRF countermeasures. A malicious website can trigger repeatedly
+the API, letting the connected phones ring continuously, until the victim leaves the
+malicious web site.
+The attacker has to convince the victim to go to the malicious website.
+
+Remediation
+-----------
+Update the Swisscom router (Internet-Box) firmware to the most recent version.
+Online routers have started receiving the updated firmware since February 2019.
+
+
+Milestones
+----------
+2018-12-14   Discovery of the vulnerability
+2018-12-16   Details communicated with Swisscom CSIRT
+2018-12-21   Vulnerability confirmed by the manufacturer and patch scheduled
+2019-02-12   Start roll-out of updated firmware
+2019-03-11   Mass roll-out of updated firmware completed
+2019-06-04   Advisory published
+
+
+Credits
+-------
+We would like to thank Matthias Galliker for his research
+and responsible disclosure through Swisscom's Bug Bounty program
+https://www.swisscom.ch/en/about/company/portrait/network/security/bug-bounty.html
+
