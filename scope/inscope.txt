@@ -144,9 +144,11 @@
 
 # Global IP Action AG
 *.globalipaction.ch
+*.glipac.ch
 
 # Innovative Web Marketing & Service AG
 *.i-web.ch
+*.i-web-status.ch
 
 # JLS Digital AG
 *.jls.ch
@@ -165,10 +167,14 @@ zabbix.mtf.li
 # Swisscom (Schweiz) AG
 *.bluewin.ch
 *.conextrade.com
+*.curabill.ch
+*.curabill-online.ch
 *.cura-med.ch
 *.curapacs.ch
+*.curaprax.ch
 *.digitalassessment.ch
 *.ealarm-safemode.ch
+*.ealarmstarter.ch
 *.ehealthnet.ch
 *.evita.ch
 *.getkickbox.com
@@ -177,6 +183,8 @@ zabbix.mtf.li
 *.health-connect.ch
 *.healthi.ch
 *.helloclass.ch
+*.idisign.ch
+*.intswisscom.com
 *.jlr-connect.ch
 *.labnet.ch
 *.mccip.ch
@@ -186,20 +194,29 @@ zabbix.mtf.li
 *.medicalshare.ch
 *.mucc-services.ch
 *.mycloud.ch
+*.mytriamed.ch
 *.paybillag.com
 *.pwlan.ch
 *.scbs.ch
 *.sctv.ch
+*.securepop.ch
 *.sinso.ch
 *.smeoffer.ch
+*.sospos.ch
+*.swisscloud.io
 *.swisscom-alarm.ch
 *.swisscom-flaechen.ch
 *.swisscom-health.ch
+*.swisscom-health.it
 *.swisscom-immobilien.ch
 *.swisscom-learningcenter.ch
 *.swisscom-printshop.ch
 *.swisscom-sharespace.com
 *.swisscom-tv.com
+*.swisscomcloud.com
+*.swisscomdata.ch
+*.swisscom-mcc.ch
+*.swisscom.ai
 *.swisscom.ch
 *.swisscom.com
 *.swisscomras.ch
@@ -218,8 +235,20 @@ swisscom.ecommerce-benchmark.com
 swisscom.shirthouse.ch
 
 # Swisscom Broadcast AG
+*.bchw.ch
 *.sbcdc.ch
+*.sbclab.ch
+*.sbcnms.ch
+*.sbc-nms.ch
+*.sbc-ticketing.ch
+*.sbc-tinsights.ch
+*.sbcstreams.ch
 *.sbctv.ch
+*.swisscombroadcast.com
+*.swisscombroadcast.ch
+*.swisscom-broadcast-dev.ch
+*.viaas.ch
+*.videoinsider.ch
 
 # Swisscom Digital Technology SA
 *.openwt.com
@@ -275,9 +304,11 @@ swisscom.shirthouse.ch
 *.massagevergleich.ch
 *.metzgereivergleich.ch
 *.multisource.ch
+*.multisourcepro.ch
 *.mycommerce.shop
 *.nachhilfevergleich.ch
 *.nagelstudiovergleich.ch
+*.oeffentliches-verzeichnis.ch
 *.optiker-vergleich.ch
 *.osteopathievergleich.ch
 *.pannenhilfevergleich.ch
@@ -287,6 +318,7 @@ swisscom.shirthouse.ch
 *.reisebuerovergleich.ch
 *.renovero.ch
 *.sanitaervergleich.ch
+*.scdag.net
 *.schreinervergleich.ch
 *.search.ch
 *.sitefree.ch
@@ -297,6 +329,7 @@ swisscom.shirthouse.ch
 *.umzugsfirma-vergleich.ch
 *.veloshop-vergleich.ch
 *.wellness-spa-vergleich.ch
+*.websheep.com
 *.yoga-pilates-vergleich.ch
 
 # Swisscom Event & Media Solutions AG
