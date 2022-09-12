@@ -21,6 +21,8 @@ The following issues are not considered relevant under the Programme:
  * "Self" XSS
  * Missing Cookie flags or missing security-related HTTP headers without 
 a demonstrated security impact 
+ * Open redirects
+ * Clickjacking
  * Missing or incomplete SPF/DKIM/DMARC
  * Social engineering attacks
  * Reports from automated tools or scans without explanatory documentation
