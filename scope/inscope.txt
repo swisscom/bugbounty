@@ -200,7 +200,6 @@ zabbix.mtf.li
 *.swisscom-printshop.ch
 *.swisscom-sharespace.com
 *.swisscom-tv.com
-*.swisscom-umfrage.ch
 *.swisscom.ch
 *.swisscom.com
 *.swisscomras.ch
@@ -219,7 +218,6 @@ swisscom.ecommerce-benchmark.com
 swisscom.shirthouse.ch
 
 # Swisscom Broadcast AG
-*.kimesurvey.ch
 *.sbcdc.ch
 *.sbctv.ch
 
@@ -267,7 +265,6 @@ swisscom.shirthouse.ch
 *.immoverwaltungsvergleich.ch
 *.informatikervergleich.ch
 *.innenarchitektvergleich.ch
-*.internal-local.ch
 *.kinderarztvergleich.ch
 *.kinderkrippen-vergleich.ch
 *.kosmetikvergleich.ch
@@ -301,7 +298,6 @@ swisscom.shirthouse.ch
 *.veloshop-vergleich.ch
 *.wellness-spa-vergleich.ch
 *.yoga-pilates-vergleich.ch
-*.zahnartzvergleich.ch
 
 # Swisscom Event & Media Solutions AG
 *.asport.tv
