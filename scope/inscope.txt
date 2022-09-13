@@ -171,7 +171,6 @@ zabbix.mtf.li
 *.ealarm-safemode.ch
 *.ehealthnet.ch
 *.evita.ch
-*.getkickbox.com
 *.h-net.ch
 *.hcard.ch
 *.health-connect.ch
