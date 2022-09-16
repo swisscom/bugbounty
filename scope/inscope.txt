@@ -236,7 +236,6 @@ swisscom.shirthouse.ch
 *.sbcnms.ch
 *.sbc-nms.ch
 *.sbc-ticketing.ch
-*.sbc-tinsights.ch
 *.sbcstreams.ch
 *.sbctv.ch
 *.swisscombroadcast.com
