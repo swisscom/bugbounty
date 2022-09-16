@@ -205,7 +205,6 @@ zabbix.mtf.li
 *.swisscom-alarm.ch
 *.swisscom-flaechen.ch
 *.swisscom-health.ch
-*.swisscom-health.it
 *.swisscom-immobilien.ch
 *.swisscom-learningcenter.ch
 *.swisscom-printshop.ch
