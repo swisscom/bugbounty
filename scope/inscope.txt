@@ -168,17 +168,12 @@ zabbix.mtf.li
 *.conextrade.com
 *.curabill.ch
 *.cura-med.ch
-*.curapacs.ch
-*.curaprax.ch
 *.digitalassessment.ch
 *.ealarm-safemode.ch
 *.ealarmstarter.ch
-*.ehealthnet.ch
 *.evita.ch
 *.h-net.ch
 *.hcard.ch
-*.health-connect.ch
-*.healthi.ch
 *.helloclass.ch
 *.idisign.ch
 *.intswisscom.com
@@ -191,7 +186,6 @@ zabbix.mtf.li
 *.medicalshare.ch
 *.mucc-services.ch
 *.mycloud.ch
-*.mytriamed.ch
 *.paybillag.com
 *.pwlan.ch
 *.scbs.ch
