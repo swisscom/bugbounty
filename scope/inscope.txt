@@ -148,7 +148,6 @@
 
 # Innovative Web Marketing & Service AG
 *.i-web.ch
-*.i-web-status.ch
 
 # JLS Digital AG
 *.jls.ch
