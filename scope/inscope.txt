@@ -230,7 +230,6 @@ swisscom.ecommerce-benchmark.com
 swisscom.shirthouse.ch
 
 # Swisscom Broadcast AG
-*.bchw.ch
 *.sbcdc.ch
 *.sbcnms.ch
 *.sbc-nms.ch
