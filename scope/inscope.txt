@@ -211,7 +211,6 @@ zabbix.mtf.li
 *.swisscom-sharespace.com
 *.swisscom-tv.com
 *.swisscomcloud.com
-*.swisscomdata.ch
 *.swisscom-mcc.ch
 *.swisscom.ai
 *.swisscom.ch
