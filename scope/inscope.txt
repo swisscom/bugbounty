@@ -168,7 +168,6 @@ zabbix.mtf.li
 *.bluewin.ch
 *.conextrade.com
 *.curabill.ch
-*.curabill-online.ch
 *.cura-med.ch
 *.curapacs.ch
 *.curaprax.ch
