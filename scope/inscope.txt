@@ -144,6 +144,7 @@
 
 # Global IP Action AG
 *.globalipaction.ch
+*.glipac.ch
 
 # Innovative Web Marketing & Service AG
 *.i-web.ch
@@ -165,10 +166,13 @@ zabbix.mtf.li
 # Swisscom (Schweiz) AG
 *.bluewin.ch
 *.conextrade.com
+*.curabill.ch
 *.cura-med.ch
 *.curapacs.ch
+*.curaprax.ch
 *.digitalassessment.ch
 *.ealarm-safemode.ch
+*.ealarmstarter.ch
 *.ehealthnet.ch
 *.evita.ch
 *.h-net.ch
@@ -176,6 +180,8 @@ zabbix.mtf.li
 *.health-connect.ch
 *.healthi.ch
 *.helloclass.ch
+*.idisign.ch
+*.intswisscom.com
 *.jlr-connect.ch
 *.labnet.ch
 *.mccip.ch
@@ -185,12 +191,15 @@ zabbix.mtf.li
 *.medicalshare.ch
 *.mucc-services.ch
 *.mycloud.ch
+*.mytriamed.ch
 *.paybillag.com
 *.pwlan.ch
 *.scbs.ch
 *.sctv.ch
+*.securepop.ch
 *.sinso.ch
 *.smeoffer.ch
+*.swisscloud.io
 *.swisscom-alarm.ch
 *.swisscom-flaechen.ch
 *.swisscom-health.ch
@@ -199,6 +208,9 @@ zabbix.mtf.li
 *.swisscom-printshop.ch
 *.swisscom-sharespace.com
 *.swisscom-tv.com
+*.swisscomcloud.com
+*.swisscom-mcc.ch
+*.swisscom.ai
 *.swisscom.ch
 *.swisscom.com
 *.swisscomras.ch
@@ -218,7 +230,15 @@ swisscom.shirthouse.ch
 
 # Swisscom Broadcast AG
 *.sbcdc.ch
+*.sbcnms.ch
+*.sbc-nms.ch
+*.sbc-ticketing.ch
+*.sbcstreams.ch
 *.sbctv.ch
+*.swisscombroadcast.com
+*.swisscombroadcast.ch
+*.viaas.ch
+*.videoinsider.ch
 
 # Swisscom Digital Technology SA
 *.openwt.com
@@ -277,6 +297,7 @@ swisscom.shirthouse.ch
 *.mycommerce.shop
 *.nachhilfevergleich.ch
 *.nagelstudiovergleich.ch
+*.oeffentliches-verzeichnis.ch
 *.optiker-vergleich.ch
 *.osteopathievergleich.ch
 *.pannenhilfevergleich.ch
@@ -286,8 +307,10 @@ swisscom.shirthouse.ch
 *.reisebuerovergleich.ch
 *.renovero.ch
 *.sanitaervergleich.ch
+*.scdag.net
 *.schreinervergleich.ch
 *.search.ch
+*.sospos.ch
 *.sitefree.ch
 *.swisslist.ch
 *.tanzschulvergleich.ch
@@ -296,6 +319,7 @@ swisscom.shirthouse.ch
 *.umzugsfirma-vergleich.ch
 *.veloshop-vergleich.ch
 *.wellness-spa-vergleich.ch
+*.websheep.com
 *.yoga-pilates-vergleich.ch
 
 # Swisscom Event & Media Solutions AG
