@@ -233,7 +233,6 @@ swisscom.shirthouse.ch
 # Swisscom Broadcast AG
 *.bchw.ch
 *.sbcdc.ch
-*.sbclab.ch
 *.sbcnms.ch
 *.sbc-nms.ch
 *.sbc-ticketing.ch
