@@ -200,7 +200,6 @@ zabbix.mtf.li
 *.securepop.ch
 *.sinso.ch
 *.smeoffer.ch
-*.sospos.ch
 *.swisscloud.io
 *.swisscom-alarm.ch
 *.swisscom-flaechen.ch
@@ -313,6 +312,7 @@ swisscom.shirthouse.ch
 *.scdag.net
 *.schreinervergleich.ch
 *.search.ch
+*.sospos.ch
 *.sitefree.ch
 *.swisslist.ch
 *.tanzschulvergleich.ch
