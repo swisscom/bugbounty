@@ -240,7 +240,6 @@ swisscom.shirthouse.ch
 *.sbctv.ch
 *.swisscombroadcast.com
 *.swisscombroadcast.ch
-*.swisscom-broadcast-dev.ch
 *.viaas.ch
 *.videoinsider.ch
 
