@@ -189,6 +189,7 @@ zabbix.mtf.li
 *.paybillag.com
 *.pwlan.ch
 *.scbs.ch
+*.scsstatic.ch
 *.sctv.ch
 *.securepop.ch
 *.sinso.ch
@@ -214,7 +215,6 @@ zabbix.mtf.li
 *.swisstrustroom.com
 *.triamed.ch
 *.volvo-online.ch
-*.vpch.ch
 *.webtiser.ch
 *.webtiser.com
 *.wingo.ch
