@@ -317,7 +317,6 @@ swisscom.shirthouse.ch
 *.yoga-pilates-vergleich.ch
 
 # Swisscom Event & Media Solutions AG
-*.asport.tv
 *.swisscomstream.ch
 *.zoon.ch
 
