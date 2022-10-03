@@ -284,6 +284,7 @@ swisscom.shirthouse.ch
 *.local.ch
 *.localcities.ch
 *.localsearch.ch
+*.localsearch.tech
 *.maler-gipser-vergleich.ch
 *.massagevergleich.ch
 *.metzgereivergleich.ch
