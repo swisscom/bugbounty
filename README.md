@@ -78,7 +78,7 @@ by e-mail.
     <td>Postal address</td>
 	<td>
 	  Swisscom (Switzerland) Ltd<br>
-	  GSE-CYD<br>
+	  GSE-SEL<br>
 	  Bug Bounty Programme<br>
 	  Förrlibuckstrasse 60/62<br>
 	  CH-8005 Zürich<br>
