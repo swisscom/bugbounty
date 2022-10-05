@@ -30,3 +30,11 @@ As an example, the more specific domains `*.cust.swisscom.ch` from [out-of-scope
 According to our [reporting guidelines](https://github.com/swisscom/bugbounty#55-reporting-guidelines), submissions are required to include a comprehensible description of the vulnerability along with step-by-step instructions to reproduce its exploitation. The fine balance lies within providing a working proof-of-concept, which clearly demonstrates the potential security impact of the vulnerability without actually inflicting any damage.
 
 For example, say you found a SQL injection vulnerability in an application. Exploiting the vulnerability typically allows to retrieve the entire contents of the database. However, this isn't necessary to demonstrate the existence of the vulnerability and this would actually constitute a data breach. Rather, you can either provide us with metadata (e.g. schema/table names) or a behavioral analysis of the application (e.g. time measurements of responses for time-based SQL injections).
+
+
+### How can I format my report?
+You can apply text formatting when submitting your report in the bug bounty portal. For details about the markup, please refer to the [Jira Text Formatting Notation](https://jira.atlassian.com/secure/WikiRendererHelpAction.jspa?section=all). Note that other markup languages such as Markdown or HTML are not supported.
+
+
+### May I run automated vulnerability scans on the scope?
+The use of automated tools to perform active vulnerability scanning often causes collateral damage. According to the [programme rules](https://github.com/swisscom/bugbounty#542-impact-on-operations), _you must avoid tests that could impair, interrupt or otherwise damage Swisscom services_. Therefore running such tools on the scope without taking appropriate precautions is highly discouraged and could lead to exclusion of the programme.
