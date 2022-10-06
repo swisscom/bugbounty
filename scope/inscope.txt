@@ -306,7 +306,6 @@ swisscom.shirthouse.ch
 *.schreinervergleich.ch
 *.search.ch
 *.sospos.ch
-*.sitefree.ch
 *.swisslist.ch
 *.tanzschulvergleich.ch
 *.tennisclubvergleich.ch
