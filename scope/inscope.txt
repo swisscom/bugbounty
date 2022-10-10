@@ -290,6 +290,7 @@ swisscomsolutions.vpch.ch
 *.massagevergleich.ch
 *.metzgereivergleich.ch
 *.multisource.ch
+*.multisourcepro.ch
 *.mycommerce.shop
 *.nachhilfevergleich.ch
 *.nagelstudiovergleich.ch
