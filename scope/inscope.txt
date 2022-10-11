@@ -186,6 +186,7 @@ zabbix.mtf.li
 *.medicalshare.ch
 *.mucc-services.ch
 *.mycloud.ch
+*.mycloudswisscom.ch
 *.paybillag.com
 *.pwlan.ch
 *.scbs.ch
@@ -202,6 +203,7 @@ zabbix.mtf.li
 *.swisscom-learningcenter.ch
 *.swisscom-printshop.ch
 *.swisscom-sharespace.com
+*.swisscom-shop.ch
 *.swisscom-tv.com
 *.swisscomcloud.com
 *.swisscom-mcc.ch
@@ -284,6 +286,7 @@ swisscomsolutions.vpch.ch
 *.kosmetikvergleich.ch
 *.local.ch
 *.localcities.ch
+*.localreservation.ch
 *.localsearch.ch
 *.localsearch.tech
 *.maler-gipser-vergleich.ch
@@ -331,6 +334,7 @@ swisscomsolutions.vpch.ch
 
 # cablex AG
 *.cablex.ch
+*.mycablex.ch
 
 # itnetX (Switzerland) AG
 *.itnetx.ch

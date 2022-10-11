@@ -47,7 +47,11 @@
 *.rnas-dyn.bluewin.ch
 *.scene7.com
 *.sfsnet.ch
+*.swisscom-umfrage.ch
 shop.m-budget.migros.ch
+
+# Swisscom Directories AG
+*.sitefree.ch
 
 # myStrom AG
 *.mystrom.ch
