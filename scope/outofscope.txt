@@ -50,9 +50,6 @@
 *.swisscom-umfrage.ch
 shop.m-budget.migros.ch
 
-# Swisscom Broadcast AG
-*.sbctv.ch
-
 # Swisscom Directories AG
 *.sitefree.ch
 
