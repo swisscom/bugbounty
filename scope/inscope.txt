@@ -177,6 +177,7 @@ zabbix.mtf.li
 *.helloclass.ch
 *.idisign.ch
 *.intswisscom.com
+*.ip-plus.net
 *.jlr-connect.ch
 *.labnet.ch
 *.mccip.ch
