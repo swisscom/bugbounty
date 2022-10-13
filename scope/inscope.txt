@@ -222,6 +222,7 @@ zabbix.mtf.li
 *.webtiser.com
 *.wingo.ch
 https://github.com/swisscom/
+swisscom.1brd.com
 swisscom.ecommerce-benchmark.com
 swisscom.shirthouse.ch
 swisscomsolutions.vpch.ch
