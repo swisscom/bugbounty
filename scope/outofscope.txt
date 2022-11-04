@@ -22,6 +22,7 @@
 
 # Fastweb SpA
 # instead see: https://www.fastweb.it/corporate/responsible-disclosure/?lng=EN
+*.7layers.it
 *.fastweb.it
 
 # LOCAL.fr
