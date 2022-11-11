@@ -403,9 +403,9 @@ Scope](#52-programme-scope)) and must qualify for the Programme (see
 [Qualifying Vulnerabilities](#53-qualifying-vulnerabilities)). 
  * You must be the first reporter of the vulnerability.
  * Reports on vulnerabilities having the same root cause (remediation in 
-a single point), as well as enumeration of identical vulnerabilities may 
-be merged into one report. In this case, the awarded Bounty would 
-consist of a base reward + bonus for each additional finding.
+a single point, e.g. same backend system, same code base, etc), as well 
+as enumeration of identical vulnerabilities may be treated as a single 
+report. 
 
 
 #### 5.6.1 Payment modalities
