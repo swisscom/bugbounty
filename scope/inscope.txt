@@ -11,10 +11,6 @@
 # The authoritative source of the program scope is located at
 # https://github.com/swisscom/bugbounty/tree/main/scope
 
-# AdUnit AG
-*.adunit.ch
-*.adunit.tech
-
 # Ajila AG
 *.ajila.com
 *.digital.deals

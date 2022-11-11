@@ -14,6 +14,10 @@
 # Admeira AG
 *.admeira.ch
 
+# AdUnit AG
+*.adunit.ch
+*.adunit.tech
+
 # Custodigit AG
 *.custodigit.com
 
