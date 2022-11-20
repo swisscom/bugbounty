@@ -37,6 +37,7 @@
 *.mila.com
 
 # Swisscom (Schweiz) AG
+193.247.168.0/21
 *.coopmobile.ch
 *.cust.swisscom.ch
 *.cust.wingo.ch
