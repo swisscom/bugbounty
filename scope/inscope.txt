@@ -167,6 +167,7 @@ zabbix.mtf.li
 *.digitalassessment.ch
 *.ealarm-safemode.ch
 *.ealarmstarter.ch
+*.ellb.ch
 *.evita.ch
 *.h-net.ch
 *.hcard.ch
@@ -284,6 +285,7 @@ swisscomsolutions.vpch.ch
 *.kosmetikvergleich.ch
 *.local.ch
 *.localcities.ch
+*.localclubs.ch
 *.localreservation.ch
 *.localsearch.ch
 *.localsearch.tech
