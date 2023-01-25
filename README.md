@@ -529,7 +529,7 @@ client.
 If the reporter has the opportunity to access personal data or 
 particularly sensitive personal data, the reporter shall notify Swisscom 
 immediately in writing by email (Contact: 
-[bug.bounty@swisscom.com](mailto:bug.bounty@swisscom.com) or via our 
+[bug.bounty@swisscom.com](mailto:bug.bounty@swisscom.com)) or via our 
 portal. 
 
 
