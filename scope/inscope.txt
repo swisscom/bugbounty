@@ -200,7 +200,6 @@ zabbix.mtf.li
 *.swisscom-health.ch
 *.swisscom-immobilien.ch
 *.swisscom-learningcenter.ch
-*.swisscom-printshop.ch
 *.swisscom-sharespace.com
 *.swisscom-shop.ch
 *.swisscom-tv.com
@@ -220,9 +219,6 @@ zabbix.mtf.li
 *.webtiser.com
 *.wingo.ch
 https://github.com/swisscom/
-swisscom.ecommerce-benchmark.com
-swisscom.shirthouse.ch
-swisscomsolutions.vpch.ch
 
 # Swisscom Broadcast AG
 *.sbcdc.ch
