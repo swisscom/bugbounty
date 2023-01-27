@@ -529,7 +529,7 @@ client.
 If the reporter has the opportunity to access personal data or 
 particularly sensitive personal data, the reporter shall notify Swisscom 
 immediately in writing by email (Contact: 
-[bug.bounty@swisscom.com](mailto:bug.bounty@swisscom.com) or via our 
+[bug.bounty@swisscom.com](mailto:bug.bounty@swisscom.com)) or via our 
 portal. 
 
 
@@ -574,7 +574,7 @@ by providing any report to Swisscom, you:
 
  * grant Swisscom the following non-exclusive, irrevocable, perpetual, 
 royalty free, worldwide, sub-licensable license to the intellectual 
-property in your report(i) to use, review, assess, test, and otherwise 
+property in your report (i) to use, review, assess, test, and otherwise 
 analyze your report; (ii) to reproduce, modify, distribute, display and 
 perform publicly, and commercialize and create derivative works of your 
 report and all its content, in whole or in part; and (iii) to feature 
