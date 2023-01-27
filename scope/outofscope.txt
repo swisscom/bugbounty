@@ -54,8 +54,12 @@
 *.rnas-dyn.bluewin.ch
 *.scene7.com
 *.sfsnet.ch
+*.swisscom-printshop.ch
 *.swisscom-umfrage.ch
 shop.m-budget.migros.ch
+swisscom.ecommerce-benchmark.com
+swisscom.shirthouse.ch
+swisscomsolutions.vpch.ch
 
 # Swisscom Directories AG
 *.sitefree.ch
