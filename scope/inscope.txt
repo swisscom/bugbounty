@@ -226,7 +226,6 @@ https://github.com/swisscom/
 *.sbc-nms.ch
 *.sbc-ticketing.ch
 *.sbcstreams.ch
-*.sbctv.ch
 *.swisscombroadcast.com
 *.swisscombroadcast.ch
 *.viaas.ch

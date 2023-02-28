@@ -382,7 +382,13 @@ with a time frame and any other distinctive identifiers, where
 applicable. For example: 
     * Set a distinctive reverse DNS entry for your IP address 
     * Append the string `-bugbounty-<username>` to the User-Agent 
-header for HTTP requests 
+header for HTTP requests
+ 5. You are expected to share all details about the discovered 
+vulnerability. To prevent withholding of information in the initial 
+report, bypasses in subsequent reports originating from the same 
+participant and regarding the same vulnerability will be accepted only 
+after 30 days. Bypasses reported during the verification phase are 
+accepted and rewarded.
 
 
 ### 5.6 Rewards

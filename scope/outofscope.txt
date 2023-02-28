@@ -61,6 +61,9 @@ swisscom.ecommerce-benchmark.com
 swisscom.shirthouse.ch
 swisscomsolutions.vpch.ch
 
+# Swisscom Broadcast AG
+*.sbctv.ch
+
 # Swisscom Directories AG
 *.sitefree.ch
 
