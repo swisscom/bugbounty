@@ -52,4 +52,4 @@ please contact the Bug Bounty team.
 
 | Date | Vulnerability | Comment |
 | --- | --- | --- |
-| Dec 2021 | CVE-2021-44228 ([Log4Shell](https://www.lunasec.io/docs/blog/log4j-zero-day/)) | No RCE PoC required, detection via DNS logging e.g. using [Canary Tokens](https://canarytokens.org/) is sufficient |
+| Dec 2021 | CVE-2021-44228 ([Log4Shell](https://www.lunasec.io/docs/blog/log4j-zero-day/)) | ~~No RCE PoC required, detection via DNS logging e.g. using [Canary Tokens](https://canarytokens.org/) is sufficient~~ Update Mar 2023: please provide a RCE PoC if possible. |
