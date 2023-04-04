@@ -42,6 +42,7 @@
 *.cust.swisscom.ch
 *.cust.wingo.ch
 *.energie-klimapioniere.ch
+*.getkickbox.com
 *.homepagetool.ch
 *.hostcenter.com
 *.internet-box.ch
