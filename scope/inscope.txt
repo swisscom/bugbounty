@@ -19,36 +19,18 @@
 *.autosense.ch
 
 # Blue Entertainment AG
-*.blue-extra.com
-*.blue-gaming.com
-*.blue-league.com
 *.blue-plus.ch
-*.blue-streaming.com
-*.blue-xtra.com
 *.blue.ch
 *.bluecinema.ch
-*.bluefamily.ch
 *.bluenews.ch
 *.blueplus.ch
-*.bluepremium.ch
-*.blueprodukte.com
-*.bluetv.ch
 *.cinetrade.ch
 *.jassfederal.ch
-*.kino.movie
 *.kit.ag
 *.kitag.com
 *.kitagcinemas.ch
-*.sporttv.ch
-*.sporttv.hockey
-*.teleclub-sport.ch
-*.teleclub-zoom.ch
 *.teleclub.ch
-*.teleclubnow.ch
-*.teleclubplay.ch
 *.teleclubsport.ch
-*.teleclubsports.ch
-*.teleclubzoom.ch
 
 # Daura AG
 *.daura.ch
@@ -138,12 +120,9 @@ https://github.com/swisscom/
 
 # Swisscom Broadcast AG
 *.sbcdc.ch
-*.sbcnms.ch
 *.sbc-nms.ch
 *.sbc-ticketing.ch
 *.sbcstreams.ch
-*.swisscombroadcast.com
-*.swisscombroadcast.ch
 *.viaas.ch
 *.videoinsider.ch
 
