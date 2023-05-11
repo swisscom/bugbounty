@@ -224,6 +224,7 @@ https://github.com/swisscom/
 
 # cablex AG
 *.cablex.ch
+*.cablex-toolbox.ch
 *.mycablex.ch
 
 # itnetX (Switzerland) AG

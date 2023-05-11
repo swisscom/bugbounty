@@ -56,6 +56,8 @@
 *.sfsnet.ch
 *.swisscom-printshop.ch
 *.swisscom-umfrage.ch
+route-server.ce.ip-plus.net
+route-server-bi.ce.ip-plus.net
 shop.m-budget.migros.ch
 swisscom.ecommerce-benchmark.com
 swisscom.shirthouse.ch
