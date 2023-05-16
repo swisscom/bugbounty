@@ -39,7 +39,7 @@ also exclude certain classes of vulnerabilities.
 | Jun 2022 | XSS in legacy Browsers | Cross-site scripting (XSS) in legacy browsers such as Microsoft Internet Explorer will no longer be considered for our Bug Bounty Programme |
 | Jul 2022 | CVE-2019-12616, CSRF in phpMyAdmin < 4.9.0 | Proof-of-concept requires user interaction, which violates our [policy on social engineering](https://github.com/swisscom/bugbounty#547-social-engineering). After weighing out the risk it was decided that this attack will no longer be considered as relevant for our Bug Bounty Programme. |
 | Jul 2022 | CWE-489 Active Debug Code | Unless sensitive data is exposed, applications running with debug mode turned on do not constitute a security issue considered as relevant for our Bug Bounty Programme. |
-| May 2023 | Takeover of expired DNS domains listed in [https://github.com/swisscom/bugbounty/blob/main/scope/inscope.txt](inscope.txt). |
+| May 2023 | Takeover of expired DNS domains listed in [inscope.txt](https://github.com/swisscom/bugbounty/blob/main/scope/inscope.txt). | Expired domains left in scope are a result of managing a broad programme, where the bug bounty team is not involved in the domain lifecycle of all participating entities. Unless a domain takeover is possible (without registering the domain itself), it will be assumed that expired domains are intentional. |
 
 ## 1-Day Vulnerabilities
 Most non-critical patches are applied during standard maintenance 
