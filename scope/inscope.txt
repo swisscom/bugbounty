@@ -19,6 +19,7 @@
 *.autosense.ch
 
 # Blue Entertainment AG
+*.blue-football.ch
 *.blue-plus.ch
 *.blue.ch
 *.bluecinema.ch
