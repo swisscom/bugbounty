@@ -19,6 +19,7 @@
 *.autosense.ch
 
 # Blue Entertainment AG
+*.blue-football.ch
 *.blue-plus.ch
 *.blue.ch
 *.bluecinema.ch
@@ -95,7 +96,6 @@ zabbix.mtf.li
 *.swisscom-alarm.ch
 *.swisscom-flaechen.ch
 *.swisscom-health.ch
-*.swisscom-immobilien.ch
 *.swisscom-learningcenter.ch
 *.swisscom-sharespace.com
 *.swisscom-shop.ch
