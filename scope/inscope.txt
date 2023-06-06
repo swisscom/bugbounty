@@ -185,6 +185,7 @@ https://github.com/swisscom/
 *.multisource.ch
 *.multisourcepro.ch
 *.mycommerce.shop
+*.mylocalina.ch
 *.nachhilfevergleich.ch
 *.nagelstudiovergleich.ch
 *.oeffentliches-verzeichnis.ch
