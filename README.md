@@ -148,6 +148,10 @@ Swisscom will make every effort to inform the authorities that your
 actions were conducted in compliance with Swisscom’s Bug Bounty 
 Programme. 
 
+For more information regarding legal aspects of ethical hacking in
+Switzerland, refer to the
+[FDPIC Factsheet for ethical hackers](https://www.edoeb.admin.ch/edoeb/en/home/datenschutz/internet_technologie/whh.html).
+
 
 ## 5 Bug Bounty Programme
 Swisscom was the first company in Switzerland to introduce a Bug Bounty 
