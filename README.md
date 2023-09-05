@@ -453,17 +453,26 @@ Bounties.
 
 Swisscom may, at its discretion, give you recognition on websites or 
 other printed materials, unless you explicitly ask us not to include 
-your name. 
+your name.
 
 
-### 5.8 Bug Bounty Agreement, Applicable Law and Jurisdiction
+### 5.8 Swisscom Employee Policy
+When participating in the Programme, you may provide information originating from private research about vulnerabilites and exploitation techniques. Your report may be forwarded to any Swisscom employee, supplier, partner or contractor on a need-to-know basis with the goal of remediating the reported issue. As such, all recipients gain an information advantage, which is at risk of misuse or misappropriation. This policy aims to establish a standard for Swisscom employees when dealing with such information.
+
+As long as the provided information is unavailable to the general public (i.e. the report is not yet disclosed, no vulnerability details are published, no CVE, no security advisory, etc):
+
+ * Swisscom employees will refrain from disclosing the information provided in reports (specific payloads, code, custom-built tools, etc.) to any third-party without a need-to-know requirement.
+ * In particular, Swisscom employees will not misuse the information for financial gain (e.g. participation in bug bounty programs, sale to vulnerability brokers, etc.).
+
+
+### 5.9 Bug Bounty Agreement, Applicable Law and Jurisdiction
 Upon your registration as reporter for the Program, you must agree to 
 these Program Rules and enter into a Bug Bounty Agreement with the terms 
 of these Program Rules with Swisscom. 
 
-#### 5.8.1 Activity clause
+#### 5.9.1 Activity clause
 
-##### 5.8.1.1 Activity of the reporter
+##### 5.9.1.1 Activity of the reporter
 The reporter provides independent advisory services with checking the 
 digital security precautions and measures at Swisscom (advisory 
 activities). In this connection, Swisscom has no authority to issue 
@@ -483,7 +492,7 @@ all (work) results including the technical database and processing
 methods in connection with and / or resulting from the advisory activity 
 in accordance with this agreement. 
 
-##### 5.8.1.2 Scope of the agreement
+##### 5.9.1.2 Scope of the agreement
 This agreement applies from the time the advisor agrees to it. 
 
 Should the reporter or Swisscom no longer wish to cooperate based on 
@@ -492,23 +501,23 @@ can be terminated at any time, unless this occurs at an inopportune time
 (i.e. a point in time that would have significant negative consequences 
 for one of the partners). 
 
-##### 5.8.1.3 Other activities
+##### 5.9.1.3 Other activities
 By agreeing to this agreement, the reporter confirms that he is also 
 working for other clients. 
 
-##### 5.8.1.4 Consulting fee
+##### 5.9.1.4 Consulting fee
 The client can pay a success-related fee for the consulting activity, 
 the amount of which is at the discretion of the client. Relevant 
 criteria can be the topicality and the respective news content for the 
 client. There is no legal entitlement to a fee. 
 
-#### 5.8.2 Subcontractors
+#### 5.9.2 Subcontractors
 The use of subcontractors or other third parties by the reporter is not 
 permitted. 
 
-#### 5.8.3 Data privacy, data protection, data secrecy
+#### 5.9.3 Data privacy, data protection, data secrecy
 
-##### 5.8.3.1 Data protection
+##### 5.9.3.1 Data protection
 The reporter is obliged to comply with all data protection provisions 
 and applicable data protection regulations within the scope of his 
 activity and applies the necessary care to protect data. 
@@ -520,7 +529,7 @@ In particular, the reporter must observe the data protection regulations
 and instructions of Swisscom. Deficits in the Swisscom security system 
 discovered by the reporter must be reported to the client immediately. 
 
-##### 5.8.3.2 Data secrecy
+##### 5.9.3.2 Data secrecy
 The reporter is also obliged to maintain data secrecy in all of his 
 activities for the client. Specifically, this means that the reporter 
 keeps all information, data and personal data known or entrusted to him 
@@ -535,15 +544,14 @@ covered by the data secrecy and the obligation to secrecy. However, the
 designation of the reporter may only be made after the removal by the 
 client. 
 
-#### 5.8.4	Reporting obligation
+#### 5.9.4	Reporting obligation
 If the reporter has the opportunity to access personal data or 
 particularly sensitive personal data, the reporter shall notify Swisscom 
 immediately in writing by email (Contact: 
 [bug.bounty@swisscom.com](mailto:bug.bounty@swisscom.com)) or via our 
 portal. 
 
-
-#### 5.8.5	Confidentiality
+#### 5.9.5	Confidentiality
 The reporter is obliged to keep all data, personal data and information 
 received in connection with his consulting activity confidential and not 
 to pass them on to third parties. 
@@ -566,7 +574,7 @@ all physical and digital documents, documents and data that he received
 in the course of fulfilling this consulting contract. Copies of 
 documents, data and documents may not be made. 
 
-#### 5.8.6 Tax clause
+#### 5.9.6 Tax clause
 The reporter is solely responsible for the correct taxation of fees 
 received. In the event that the payments are subject to VAT, the client 
 shows the VAT and the VAT is paid by the client. 
@@ -577,8 +585,7 @@ required by the applicable legislation for the provision of the advisory
 activity. At the request of the client, the reporter will provide 
 evidence of having met these obligations. 
 
-
-#### 5.8.7 IP clause
+#### 5.9.7 IP clause
 Swisscom is not claiming any ownership rights to your report. However, 
 by providing any report to Swisscom, you: 
 
@@ -606,7 +613,7 @@ haven't used information owned by another person or entity, and that you
 have the legal right to provide the report to Swisscom. 
 
 
-#### 5.8.8	Bank account
+#### 5.9.8	Bank account
 The reporter has to name a bank account for the processing. It is 
 essential that the reporter himself, as an individual, is the recipient 
 of the payment. If the reporter names a company account, he/she must be 
@@ -615,7 +622,7 @@ purpose is in the responsibility of the reporter. He/she must obtain the
 appropriate permission from the respective company. Swisscom is not 
 obliged to do so. 
 
-#### 5.8.9	General provisions
+#### 5.9.9	General provisions
 Changes and additions to this agreement, including this provision, are 
 only possible by means of a written agreement signed by both parties. 
 
