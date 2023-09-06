@@ -457,12 +457,28 @@ your name.
 
 
 ### 5.8 Swisscom Employee Policy
-When participating in the Programme, you may provide information originating from private research about vulnerabilites and exploitation techniques. Your report may be forwarded to any Swisscom employee, supplier, partner or contractor on a need-to-know basis with the goal of remediating the reported issue. As such, all recipients gain an information advantage, which is at risk of misuse or misappropriation. This policy aims to establish a standard for Swisscom employees when dealing with such information.
+When participating in the Programme, you may provide information originating
+from private research about vulnerabilites and exploitation techniques. Your
+report may be forwarded to any Swisscom employee, contractor, supplier, partner,
+or vendor on a need-to-know basis with the goal of remediating the reported
+issue. As such, all recipients gain an informational advantage, which is at risk
+of misuse or misappropriation. This policy aims to establish a standard for
+Swisscom employees when handling such information. While we cannot enforce this
+policy with third-party entities (e.g. suppliers, vendors, etc.), our commitment
+to prevent abuse involves sharing only essential information and treating it as
+confidential.
 
-As long as the provided information is unavailable to the general public (i.e. the report is not yet disclosed, no vulnerability details are published, no CVE, no security advisory, etc):
+As long as the provided information is unavailable to the general public (i.e.
+the report is not yet disclosed, no vulnerability details have been published,
+no CVE has been assigned, no security advisory has been issued, etc) and your
+report has been closed for less than three months:
 
- * Swisscom employees will refrain from disclosing the information provided in reports (specific payloads, code, custom-built tools, etc.) to any third-party without a need-to-know requirement.
- * In particular, Swisscom employees will not misuse the information for financial gain (e.g. participation in bug bounty programs, sale to vulnerability brokers, etc.).
+ * Swisscom employees will refrain from disclosing the information provided in
+reports (specific payloads, code, custom-built tools, etc.) to any
+third-party without a need-to-know requirement.
+ * In particular, Swisscom employees will not misuse the information for
+personal financial gain (e.g. participation in bug bounty programs, sale to
+vulnerability brokers, etc).
 
 
 ### 5.9 Bug Bounty Agreement, Applicable Law and Jurisdiction
