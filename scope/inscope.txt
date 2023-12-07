@@ -18,6 +18,10 @@
 # autoSense AG
 *.autosense.ch
 
+# Axept Business Software AG
+*.axept.ch
+
+
 # Blue Entertainment AG
 *.blue-football.ch
 *.blue-plus.ch
@@ -58,6 +62,7 @@ status.mtfcloud.ch
 zabbix.mtf.li
 
 # Swisscom (Schweiz) AG
+*.079.ch
 *.bluewin.ch
 *.conextrade.com
 *.curabill.ch
@@ -176,6 +181,7 @@ https://github.com/swisscom/
 *.local.ch
 *.localcities.ch
 *.localclubs.ch
+*.localina.com
 *.localreservation.ch
 *.localsearch.ch
 *.localsearch.tech
