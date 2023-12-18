@@ -37,8 +37,6 @@
 *.teleclub.ch
 *.teleclubsport.ch
 
-# Daura AG
-*.daura.ch
 
 # Global IP Action AG
 *.globalipaction.ch
@@ -51,8 +49,6 @@
 *.jls.ch
 *.jls.digital
 
-# NGT International
-*.ngti.nl
 
 # MTF Solutions AG
 api.mailarchiver.mtfcloud.ch
