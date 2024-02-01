@@ -38,6 +38,10 @@
 *.teleclubsport.ch
 
 
+# comPlan
+*.pk-complan.ch
+
+
 # Global IP Action AG
 *.globalipaction.ch
 *.glipac.ch
