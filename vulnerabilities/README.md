@@ -42,6 +42,7 @@ also exclude certain classes of vulnerabilities.
 | May 2023 | Takeover of expired DNS domains listed in [inscope.txt](https://github.com/swisscom/bugbounty/blob/main/scope/inscope.txt). | Expired domains left in scope are a result of managing a broad programme, where the bug bounty team is not involved in the domain lifecycle of all participating entities. Unless a domain takeover is possible (without registering the domain itself), it will be assumed that expired domains are intentional. |
 | Aug 2023 | Dangling DNS records without PoC | Reports on dangling DNS records will be rejected unless proof of successful (sub-)domain hijacking is provided. |
 | Oct 2023 | Outdated Browser version as prerequisite | Reports relying on the usage of not up-to-date browsers will be rejected. |
+| Jan 2024 | Harmless XSS payloads | XSS payloads without demonstration of a malicious impact will be disregarded. For example the injected code must affect the same-origin as the target application, or it should be able to retrieve sensitive information from the cookies/local storage. For details, see ["Do NOT use alert(1) in XSS"](https://liveoverflow.com/do-not-use-alert-1-in-xss/).|
 
 ## 1-Day Vulnerabilities
 Most non-critical patches are applied during standard maintenance 
