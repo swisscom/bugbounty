@@ -20,6 +20,7 @@
 
 # Axept Business Software AG
 *.axept.ch
+*.provis.ch
 
 
 # Blue Entertainment AG
