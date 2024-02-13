@@ -274,7 +274,8 @@ parties.
  3. You are expected to take all necessary technical and organisational 
 measures to minimise the impact of your testing activity. For example, 
 make sure you know what you are doing when using automated tools and 
-limit your requests per second. 
+limit your requests per second. Refrain from conducting tests that
+involve spamming web forms or triggering reservations.
  4. If you assume that the availability of a tested system was impaired 
 due to your testing activities despite all precautions taken, please 
 inform the Bug Bounty Team immediately. 
