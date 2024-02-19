@@ -136,11 +136,6 @@ https://github.com/swisscom/
 *.openwt.com
 *.openwt.io
 *.openwt.net
-*.swisscomdigital.tech
-*.swisscomdigital.technology
-*.swisscomdigitaltechnologies.com
-*.swisscomdigitaltechnology.ch
-*.swisscomdt.com
 
 # Swisscom Directories AG
 *.akupunkturvergleich.ch
