@@ -97,3 +97,6 @@ webapp.rk8s.94957.mtfcloud.ch
 *.tiko.uk
 *.tikoenergy.com
 
+# Vodafone Italia S.p.A.
+*.vodafone.it
+
