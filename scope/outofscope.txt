@@ -18,6 +18,9 @@
 *.adunit.ch
 *.adunit.tech
 
+# cablex AG
+fiberdoc.cablex.ch
+
 # Custodigit AG
 *.custodigit.com
 
@@ -66,6 +69,7 @@ swisscomsolutions.vpch.ch
 
 # Swisscom Broadcast AG
 *.sbctv.ch
+*.sbc-nms.ch
 
 # Swisscom Directories AG
 *.sitefree.ch

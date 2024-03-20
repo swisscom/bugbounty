@@ -126,7 +126,6 @@ https://github.com/swisscom/
 
 # Swisscom Broadcast AG
 *.sbcdc.ch
-*.sbc-nms.ch
 *.sbc-ticketing.ch
 *.sbcstreams.ch
 *.viaas.ch
