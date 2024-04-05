@@ -19,6 +19,7 @@
 *.autosense.ch
 
 # Axept Business Software AG
+*.adapt-solutions.ch
 *.axept.ch
 *.provis.ch
 
@@ -227,6 +228,7 @@ https://github.com/swisscom/
 # cablex AG
 *.cablex.ch
 *.cablex-toolbox.ch
+*.ibion.ch
 *.mycablex.ch
 
 # itnetX (Switzerland) AG
