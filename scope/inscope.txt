@@ -22,6 +22,7 @@
 *.adapt-solutions.ch
 *.axept.ch
 *.provis.ch
+*.provisag.ch
 
 
 # Blue Entertainment AG
