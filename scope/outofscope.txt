@@ -43,6 +43,7 @@ fiberdoc.cablex.ch
 193.247.168.0/21
 *.coopmobile.ch
 *.cust.swisscom.ch
+*.cust.swisscom.net
 *.cust.wingo.ch
 *.energie-klimapioniere.ch
 *.getkickbox.com
