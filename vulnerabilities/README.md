@@ -43,6 +43,7 @@ also exclude certain classes of vulnerabilities.
 | Aug 2023 | Dangling DNS records without PoC | Reports on dangling DNS records will be rejected unless proof of successful (sub-)domain hijacking is provided. |
 | Oct 2023 | Outdated Browser version as prerequisite | Reports relying on the usage of not up-to-date browsers will be rejected. |
 | Jan 2024 | Harmless XSS payloads | XSS payloads without demonstration of a malicious impact will be disregarded. For example the injected code must affect the same-origin as the target application, or it should be able to retrieve sensitive information from the cookies/local storage. For details, see ["Do NOT use alert(1) in XSS"](https://liveoverflow.com/do-not-use-alert-1-in-xss/).|
+| Jun 2024 | Leaked Credentials | Reports of leaked credentials e.g. originating from infostealers, password dumps, etc. are not eligible for bounties. |
 
 ## 1-Day Vulnerabilities
 Most non-critical patches are applied during standard maintenance 
