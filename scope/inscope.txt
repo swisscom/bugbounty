@@ -161,7 +161,6 @@ https://github.com/swisscom/
 *.ernaehrungsberatungsvergleich.ch
 *.etv.ch
 *.fahrlehrervergleich.ch
-*.fenster-türe-vergleich.ch
 *.fitnessstudio-vergleich.ch
 *.floristvergleich.ch
 *.fondue-vergleich.ch
