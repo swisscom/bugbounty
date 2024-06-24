@@ -142,6 +142,7 @@ https://github.com/swisscom/
 # Swisscom Directories AG
 *.akupunkturvergleich.ch
 *.apotheken-vergleich.ch
+*.architektvergleich.ch
 *.augenarztvergleich.ch
 *.bestattungsvergleich.ch
 *.bijouterie-vergleich.ch
@@ -175,6 +176,7 @@ https://github.com/swisscom/
 *.innenarchitektvergleich.ch
 *.kinderarztvergleich.ch
 *.kinderkrippen-vergleich.ch
+*.kmudigital.ch
 *.kosmetikvergleich.ch
 *.local.ch
 *.localcities.ch
@@ -205,6 +207,7 @@ https://github.com/swisscom/
 *.scdag.net
 *.schreinervergleich.ch
 *.search.ch
+*.shopdemo.ch
 *.sospos.ch
 *.swisslist.ch
 *.tanzschulvergleich.ch
