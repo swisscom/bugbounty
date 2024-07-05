@@ -18,6 +18,9 @@
 *.adunit.ch
 *.adunit.tech
 
+# autoSense AG
+amag.supportcenter.autosense-cloud.com
+
 # cablex AG
 fiberdoc.cablex.ch
 
