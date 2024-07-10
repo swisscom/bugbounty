@@ -38,7 +38,7 @@ reporting party. We thank you in advance for your contribution!
 ## 2 Contact Information
 To take part in our Bug Bounty Programme, please register and submit 
 your report directly on [our 
-portal](https://issue.swisscom.ch/servicedesk/customer/portal/3). See 
+portal](https://portal.bugbounty.swisscom.ch/). See 
 [5.4.1 Registration](#541-registration). 
 
 To report a security vulnerability to Swisscom without participation in 
@@ -52,16 +52,16 @@ by e-mail.
   </tr>
   <tr>
     <td>PGP key ID</td>
-    <td>D7DD5D676F08666B</td>
+    <td>D7C7CE45C6817513</td>
   </tr>
   <tr>
     <td>PGP fingerprint</td>
-    <td>32C7 3D84 51B9 0D71 F966 1FD3 D7DD 5D67 6F08 666B</td>
+    <td>9423 3225 7E5F 5A65 425F 8807 D7C7 CE45 C681 7513</td>
   </tr>
   <tr>
     <td>PGP public key</td>
 	<td>
-	 <a href="https://github.com/swisscom/bugbounty/blob/main/assets/pgp/bug-bounty_18062022-17062024.asc">
+	 <a href="https://github.com/swisscom/bugbounty/blob/main/assets/pgp/bug-bounty_19052024-19052026.asc">
 	  Public key
 	 </a>
 	</td>
@@ -69,7 +69,7 @@ by e-mail.
   <tr>
    <td>Portal link</td>
    <td>
-    <a href="https://issue.swisscom.ch/servicedesk/customer/portal/3">
+    <a href="https://portal.bugbounty.swisscom.ch/">
      Bug Bounty Portal
 	</a>
    </td>
@@ -255,7 +255,7 @@ right to terminate or discontinue the Programme at its discretion.
 #### 5.4.1 Registration
 To participate in the Swisscom Bug Bounty Programme you must register an 
 account via our [Bug Bounty 
-Portal](https://issue.swisscom.ch/servicedesk/customer/portal/3). 
+Portal](https://portal.bugbounty.swisscom.ch/). 
 Reports submitted via any other channel will be disregarded. In order to 
 receive bounty payments, you will be required to provide: 
  * your name and postal address
