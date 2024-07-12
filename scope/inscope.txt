@@ -136,9 +136,7 @@ https://github.com/swisscom/
 *.videoinsider.ch
 
 # Swisscom Digital Technology SA
-*.openwt.com
-*.openwt.io
-*.openwt.net
+*.owt.swiss
 
 # Swisscom Directories AG
 *.akupunkturvergleich.ch
