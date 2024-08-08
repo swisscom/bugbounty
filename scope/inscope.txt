@@ -129,11 +129,13 @@ zabbix.mtf.li
 https://github.com/swisscom/
 
 # Swisscom Broadcast AG
+*.audiovideo-sa.ch
 *.sbcdc.ch
 *.sbc-ticketing.ch
 *.sbcstreams.ch
 *.viaas.ch
 *.videoinsider.ch
+cam.comtronic.ch
 
 # Swisscom Digital Technology SA
 *.owt.swiss
