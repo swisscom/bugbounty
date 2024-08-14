@@ -20,6 +20,7 @@
 
 # autoSense AG
 amag.supportcenter.autosense-cloud.com
+helion.supportcenter-dev.autosense-cloud.com
 
 # cablex AG
 fiberdoc.cablex.ch
