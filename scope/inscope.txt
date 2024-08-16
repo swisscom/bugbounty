@@ -135,7 +135,6 @@ https://github.com/swisscom/
 *.sbcstreams.ch
 *.viaas.ch
 *.videoinsider.ch
-cam.comtronic.ch
 
 # Swisscom Digital Technology SA
 *.owt.swiss
