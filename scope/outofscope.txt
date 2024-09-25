@@ -19,6 +19,8 @@
 *.adunit.tech
 
 # Camptocamp SA
+*.camptocamp.net
+*.camptocamp.org
 jira.camptocamp.com
 confluence.camptocamp.com
 
