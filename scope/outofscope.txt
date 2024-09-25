@@ -18,6 +18,12 @@
 *.adunit.ch
 *.adunit.tech
 
+# Camptocamp SA
+*.camptocamp.net
+*.camptocamp.org
+jira.camptocamp.com
+confluence.camptocamp.com
+
 # autoSense AG
 amag.supportcenter.autosense-cloud.com
 helion.supportcenter-dev.autosense-cloud.com
