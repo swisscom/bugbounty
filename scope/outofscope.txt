@@ -19,6 +19,10 @@
 *.adunit.tech
 
 # Camptocamp SA
+*.camptocamp.com
+*.camptocamp.ch
+*.camptocamp.fr
+*.camptocamp.de
 *.camptocamp.net
 *.camptocamp.org
 jira.camptocamp.com

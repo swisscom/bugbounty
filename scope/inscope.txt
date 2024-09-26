@@ -41,12 +41,6 @@
 *.teleclub.ch
 *.teleclubsport.ch
 
-# Camptocamp SA
-*.camptocamp.com
-*.camptocamp.ch
-*.camptocamp.fr
-*.camptocamp.de
-
 # comPlan
 *.pk-complan.ch
 
