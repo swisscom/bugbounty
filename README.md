@@ -205,6 +205,11 @@ Submission) perform services for Swisscom or a Swisscom subsidiary in an
 external staff capacity that requires access to the Swisscom Network, 
 such as agency temporary worker, vendor employee, contractor 
 
+Swisscom reserves the right to exclude any participant from the Programme
+at Swisscom's sole discretion and at any moment, particularly if it is
+observed that submissions are not generating the expected value and, at
+the same time, create an excessive workload for the triage team.
+
 
 ### 5.2 Programme Scope
 In principle, any Swisscom-owned assets are intended to be within the 
