@@ -92,7 +92,6 @@ zabbix.mtf.li
 *.mucc-services.ch
 *.mycloud.ch
 *.mycloudswisscom.ch
-*.paybillag.com
 *.projectmm.ch
 *.pwlan.ch
 *.scbs.ch
