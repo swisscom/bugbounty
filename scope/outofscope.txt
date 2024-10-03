@@ -67,6 +67,7 @@ fiberdoc.cablex.ch
 *.klimapioniere.ch
 *.mtf-ti.ch
 *.mtfcloud.ch
+*.paybillag.com
 *.pcwtag.itservices.ch
 *.pub.wingo.ch
 *.rnas-dyn.bluewin.ch
