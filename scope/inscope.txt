@@ -204,7 +204,6 @@ https://github.com/swisscom/
 *.scdag.net
 *.schreinervergleich.ch
 *.search.ch
-*.shopdemo.ch
 *.sospos.ch
 *.swisslist.ch
 *.tanzschulvergleich.ch
