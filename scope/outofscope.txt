@@ -53,6 +53,9 @@ fiberdoc.cablex.ch
 *.mila.cloud
 *.mila.com
 
+# Parato AG
+*.parato.ch
+
 # Swisscom (Schweiz) AG
 193.247.168.0/21
 *.coopmobile.ch
