@@ -306,10 +306,13 @@ when searching for vulnerabilities.
 other Swisscom customers or third parties. 
 
 
-#### 5.4.5 Data minimisation
+#### 5.4.5 Data and financial impact minimisation
  1. You must limit the amount of data accessed to a strict minimum. 
  2. You are expected to access the minimal amount of data necessary to 
-prove the existence of a vulnerability. 
+prove the existence of a vulnerability.
+ 3. If you need to carry out a financial transaction to demonstrate the
+impact of a vulnerability (e.g. purchase of articles, vouchers or
+subscriptions), we require that the transaction amount be minimal.
 
 
 #### 5.4.6 Transgression of scope
