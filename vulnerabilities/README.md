@@ -45,6 +45,7 @@ also exclude certain classes of vulnerabilities.
 | Jan 2024 | Harmless XSS payloads | XSS payloads without demonstration of a malicious impact will be disregarded. For example the injected code must affect the same-origin as the target application, or it should be able to retrieve sensitive information from the cookies/local storage. For details, see ["Do NOT use alert(1) in XSS"](https://liveoverflow.com/do-not-use-alert-1-in-xss/).|
 | Jun 2024 | Leaked Credentials | Reports of leaked credentials e.g. originating from infostealers, password dumps, etc. are not eligible for bounties. |
 | Dec 2024 | NTLM over HTTP Information Disclosure | Host information can be enumerated when NTLM over HTTP authentication is supported and exposed. This is considered as disclosure of non-sensitive information (w.r.t. data protection laws) and will be rejected unless further impact is demonstrated. |
+| Jan 2025 | Leaked Credentials (2) | Credentials and other sensitive leaks aggregated in third-party sites (e.g. otx.alienvault, virustotal) without demonstrating that a vulnerability on our end caused the breach. |
 
 ## 1-Day Vulnerabilities
 Most non-critical patches are applied during standard maintenance 
