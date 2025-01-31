@@ -93,6 +93,10 @@ swisscomsolutions.vpch.ch
 # Swisscom Directories AG
 *.sitefree.ch
 
+# Swisscom Event & Media Solutions AG
+*.zoon.ch
+*.oniva.events
+
 # myStrom AG
 *.mystrom.ch
 
