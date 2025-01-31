@@ -217,7 +217,6 @@ https://github.com/swisscom/
 
 # Swisscom Event & Media Solutions AG
 *.swisscomstream.ch
-*.zoon.ch
 
 # United Security Providers AG
 *.u-s-p.ch
