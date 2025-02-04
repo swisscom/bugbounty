@@ -218,6 +218,9 @@ https://github.com/swisscom/
 # Swisscom Event & Media Solutions AG
 *.swisscomstream.ch
 
+# Teldas GmbH
+*.teldas.ch
+
 # United Security Providers AG
 *.u-s-p.ch
 *.united-security-providers.ch

@@ -18,15 +18,17 @@ The following issues are not considered relevant under the Programme:
  * The absence of a security feature alone without demonstrated impact 
  * Disclosure of non-sensitive information, even in bulk
  * Denial-of-Service attacks
- * "Self" XSS without demonstration of further impact
+ * "Self" XSS without demonstration of further impact (e.g. no adverse effects on victim)
  * Missing Cookie flags or missing security-related HTTP headers without 
 a demonstrated security impact 
- * Open redirects without demonstration of further impact
+ * Open redirects without demonstration of further impact (e.g. a mere redirect to a phishing
+site is excluded, however stealing auth tokens is accepted)
  * Clickjacking
  * Missing or incomplete SPF/DKIM/DMARC
  * Social engineering attacks
  * Reports from automated tools or scans without explanatory documentation
- * Missing Rate limiting without further security impact
+ * Missing Rate limiting without further security impact (e.g. brute-force not practical
+ in reasonable time)
 
 Moreover, in cases where we generally accept the security impact, we 
 also exclude certain classes of vulnerabilities.
