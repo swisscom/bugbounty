@@ -264,7 +264,9 @@ Portal](https://portal.bugbounty.swisscom.ch/).
 Reports submitted via any other channel will be disregarded. In order to 
 receive bounty payments, you will be required to provide: 
  * your name and postal address
- * a copy of an identity document (e.g. passport or ID card)
+ * a copy of an international identity document (e.g. passport or ID card),
+ that includes a [machine-readable zone](https://en.wikipedia.org/wiki/Machine-readable_passport)
+ for unambiguous matching.
  * your bank details (see also [Payment 
 modalities](#561-payment-modalities)) 
 
