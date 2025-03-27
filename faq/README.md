@@ -4,17 +4,18 @@
 
 | State | Description |
 | --- | --- |
-| `OPEN` | New submission |
-| `ACKNOWLEDGED` | Submission acknowledged by the bug bounty team |
-| `IN PROGRESS` | Submission was handed over to the responsible team |
-| `PENDING INTERNAL` | Issue requires in-depth analysis, e.g. when further parties (vendors, suppliers, etc) are involved. |
-| `PENDING REPORTER` | Additional information about the vulnerability required from the reporter |
-| `VERIFICATION` | Request confirmation of the fix by the reporter |
-| `RESOLVED` | Vulnerability was remediated |
-| `GATHER METADATA` | Bug bounty team collects all information required to assess the impact of the reported vulnerability |
-| `REQ. BANK DETAILS` | Bank account information required from the reporter |
-| `PAYOUT INITIATED` | Bounty was assigned and payment process initiated |
-| `CLOSED` | Payout succeeded and issue is closed |
+| `OPEN` | The submission was received and is under initial review. |
+| `ACKNOWLEDGED` | The bug bounty team has reviewed the submission and confirmed it is in scope and not a duplicate. This means the issue is now being handled. |
+| `IN PROGRESS` | The report has been forwarded to the responsible team/supplier. Investigation and remediation are ongoing. |
+| `VERIFICATION` | A fix has been implemented. We ask the reporter to test and confirm whether the issue is fully resolved. |
+| `RESOLVED` | The vulnerability has been fixed. The reporter and/or the bug bounty team confirmed the remediation. |
+| `IMPACT ASSESSMENT` | We are waiting for additional information before assigning a bounty (e.g. impact details). |
+| `REQ. BANK DETAILS` | We are ready to issue a bounty but still need the reporter’s bank account information. |
+| `PAYOUT INITIATED` | The bounty amount has been set and the payment process has been initiated. |
+| `PAYOUT ISSUE` | There is an issue or a delay in processing the payment (e.g. failed sanctions check, rejected bank details, bounced payment). |
+| `PAYOUT DISPUTE` | The reporter disagrees with the awarded bounty (e.g. amount too low). |
+| `CLOSED` | If a bounty was awarded, the payout is initiated and will be processed by the bank within 2–3 days. The payment may take up to 21 days to arrive. Issues can be reopened if needed.  |
+| `CNR` | The issue won't be fixed but has been paid out. Payment will be processed by the bank within 2–3 days and may take up to 21 days to arrive. Issues can be reopened if needed. |
 
 
 ### What's in scope, what's out of scope?
