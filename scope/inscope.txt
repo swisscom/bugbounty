@@ -129,7 +129,6 @@ https://github.com/swisscom/
 *.audiovideo-sa.ch
 *.sbcdc.ch
 *.sbc-ticketing.ch
-*.sbcstreams.ch
 *.viaas.ch
 *.videoinsider.ch
 
