@@ -15,9 +15,6 @@
 *.ajila.com
 *.digital.deals
 
-# autoSense AG
-*.autosense.ch
-*.autosense-cloud.com
 
 # Axept Business Software AG
 *.adapt-solutions.ch

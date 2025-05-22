@@ -29,6 +29,8 @@ jira.camptocamp.com
 confluence.camptocamp.com
 
 # autoSense AG
+*.autosense.ch
+*.autosense-cloud.com
 amag.supportcenter.autosense-cloud.com
 helion.supportcenter-dev.autosense-cloud.com
 
