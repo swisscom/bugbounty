@@ -15,7 +15,8 @@ reward. Common examples include:
 ## Non-Qualifying Vulnerabilities
 The following issues are not considered relevant under the Programme:
 
- * The absence of a security feature alone without demonstrated impact 
+ * The absence of a security feature alone without demonstrated impact
+ * Missing security best practice
  * Disclosure of non-sensitive information, even in bulk
  * Denial-of-Service attacks
  * "Self" XSS without demonstration of further impact (e.g. no adverse effects on victim)
@@ -29,6 +30,8 @@ site is excluded, however stealing auth tokens is accepted)
  * Reports from automated tools or scans without explanatory documentation
  * Missing Rate limiting without further security impact (e.g. brute-force not practical
  in reasonable time)
+ * Vulnerabilities lacking a plausible threat model, that present no tangible value or
+ incentive for an attacker to exploit
 
 Moreover, in cases where we generally accept the security impact, we 
 also exclude certain classes of vulnerabilities.
