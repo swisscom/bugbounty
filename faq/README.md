@@ -11,6 +11,7 @@
 | `RESOLVED` | The vulnerability has been fixed. The reporter and/or the bug bounty team confirmed the remediation. |
 | `IMPACT ASSESSMENT` | We are waiting for additional information before assigning a bounty (e.g. impact details). |
 | `REQ. BANK DETAILS` | We are ready to issue a bounty but still need the reporter’s bank account information. |
+| `SANCTIONS CHECK` | We are reviewing the reporter's identity and bank information against international sanctions and compliance lists. This is a required step before payment can proceed. |
 | `PAYOUT INITIATED` | The bounty amount has been set and the payment process has been initiated. |
 | `PAYOUT ISSUE` | There is an issue or a delay in processing the payment (e.g. failed sanctions check, rejected bank details, bounced payment). |
 | `PAYOUT DISPUTE` | The reporter disagrees with the awarded bounty (e.g. amount too low). |
