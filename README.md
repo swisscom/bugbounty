@@ -417,6 +417,8 @@ to CHF 10'000. The Bug Bounty team determines the Bounty amount based on
 
  * the technical impact of the reported vulnerability
  * the business criticality of the impacted system or data
+ * a plausible threat scenario, i.e. likelihood of exploitation
+ based on actor capability and motivation
  * the quality of the documentation provided to Swisscom
 
 In general, rewards will be paid after remediation of the vulnerability, 
