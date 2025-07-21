@@ -81,7 +81,6 @@ zabbix.mtf.li
 *.labnet.ch
 *.lanexpert.ch
 *.mccip.ch
-*.mdm-mobile.ch
 *.medicalconnector.ch
 *.medicalexchange.ch
 *.medicalshare.ch
