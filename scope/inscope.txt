@@ -108,7 +108,6 @@ zabbix.mtf.li
 *.swisscomras.ch
 *.swissdigicert.ch
 *.swisstrustcert.ch
-*.swisstrustdir.ch
 *.swisstrustroom.ch
 *.swisstrustroom.com
 *.triamed.ch
