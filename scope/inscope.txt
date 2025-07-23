@@ -70,11 +70,9 @@ zabbix.mtf.li
 *.ealarm-safemode.ch
 *.ealarmstarter.ch
 *.ellb.ch
-*.evita.ch
 *.h-net.ch
 *.hcard.ch
 *.helloclass.ch
-*.idisign.ch
 *.intswisscom.com
 *.ip-plus.net
 *.jlr-connect.ch
@@ -100,7 +98,6 @@ zabbix.mtf.li
 *.swisscom-flaechen.ch
 *.swisscom-health.ch
 *.swisscom-learningcenter.ch
-*.swisscom-sharespace.com
 *.swisscom-shop.ch
 *.swisscom-tv.com
 *.swisscomcloud.com
