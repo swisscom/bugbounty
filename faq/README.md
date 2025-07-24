@@ -40,3 +40,12 @@ You can apply text formatting when submitting your report in the bug bounty port
 
 ### May I run automated vulnerability scans on the scope?
 The use of automated tools to perform active vulnerability scanning often causes collateral damage. According to the [programme rules](https://github.com/swisscom/bugbounty#542-impact-on-operations), _you must avoid tests that could impair, interrupt or otherwise damage Swisscom services_. Therefore running such tools on the scope without taking appropriate precautions is highly discouraged and could lead to exclusion of the programme.
+
+
+### How should I record a video to demonstrate a finding?
+We recommend using a free tool like [OBS Studio](https://obsproject.com) for screen recordings. It saves videos in MKV, which handles interruptions well.
+ * Use a reasonable codec — 20–30 minutes is typically fine, but please keep videos short and focused.
+ * Re-encode to MP4 (H.264) to reduce file size. This format is widely supported.
+ * Jira file size limit: 20 MB — reduce resolution, length, or use stronger compression if needed.
+
+Tip: Use tools like HandBrake or ffmpeg to convert MKV to MP4/H.264 efficiently.
