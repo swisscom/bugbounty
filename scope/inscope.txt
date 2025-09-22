@@ -187,6 +187,7 @@ https://github.com/swisscom/
 *.pannenhilfevergleich.ch
 *.pflegeheimvergleich.ch
 *.physiotherapievergleich.ch
+*.public-directory.ch
 *.reinigungsfirmavergleich.ch
 *.reisebuerovergleich.ch
 *.renovero.ch
