@@ -67,6 +67,7 @@ fiberdoc.cablex.ch
 *.energie-klimapioniere.ch
 *.getkickbox.com
 *.homepagetool.ch
+*.hospitality.swisscom.com
 *.hostcenter.com
 *.internet-box.ch
 *.klimapioniere.ch
