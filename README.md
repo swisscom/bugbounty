@@ -34,6 +34,10 @@ reporting party. We thank you in advance for your contribution!
  * Safe Harbor Policy
  * In-house triage by Swisscom team
 
+ℹ️ Please take note of the [registration requirements](#541-registration) and [payment modalities](#561-payment-modalities) before notifying us of a vulnerability. Especially regarding the following points:
+ * you will be required to provide a copy of an international identity document (e.g. passport or ID card), that is currently valid and that includes a machine-readable zone for unambiguous matching.
+ * rewards are paid out in Swiss francs (CHF) by bank transfer only. Any other payment channels are excluded.
+
 
 ## 2 Contact Information
 To take part in our Bug Bounty Programme, please register and submit 
