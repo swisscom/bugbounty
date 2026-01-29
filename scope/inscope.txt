@@ -29,7 +29,6 @@
 *.bluecinema.ch
 *.bluenews.ch
 *.blueplus.ch
-*.cinetrade.ch
 *.jassfederal.ch
 *.kit.ag
 *.kitag.com
