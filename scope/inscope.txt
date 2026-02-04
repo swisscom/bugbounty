@@ -95,7 +95,6 @@ zabbix.mtf.li
 *.swisscloud.io
 *.swisscom-alarm.ch
 *.swisscom-flaechen.ch
-*.swisscom-health.ch
 *.swisscom-learningcenter.ch
 *.swisscom-shop.ch
 *.swisscom-tv.com
