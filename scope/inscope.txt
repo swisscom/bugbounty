@@ -208,6 +208,10 @@ https://github.com/swisscom/
 
 # Teldas GmbH
 *.teldas.ch
+www.numberportability.ch
+ws.numberportability.ch
+testsrv.numberportability.ch
+ws.testsrv.numberportability.ch
 
 # United Security Providers AG
 *.u-s-p.ch
