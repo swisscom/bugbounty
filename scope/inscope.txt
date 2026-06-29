@@ -228,7 +228,6 @@ ws.testsrv.numberportability.ch
 # cablex AG
 *.cablex.ch
 *.cablex-toolbox.ch
-*.ibion.ch
 *.mycablex.ch
 
 # itnetX (Switzerland) AG
