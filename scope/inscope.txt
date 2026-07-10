@@ -208,6 +208,7 @@ https://github.com/swisscom/
 
 # Swisscom Secure Vision AG
 *.audiovideo-sa.ch
+*.crowdinsider.ch
 *.viaas.ch
 *.videoinsider.ch
 
