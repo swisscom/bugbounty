@@ -116,6 +116,7 @@ https://github.com/swisscom/
 
 # Swisscom Broadcast AG
 *.sbcdc.ch
+*.swisscomcdn.ch
 
 # Swisscom Digital Technology SA
 *.owt.swiss
