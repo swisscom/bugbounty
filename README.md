@@ -40,56 +40,19 @@ reporting party. We thank you in advance for your contribution!
 
 
 ## 2 Contact Information
+
+### 2.1 Bug Bounty Programme
 To take part in our Bug Bounty Programme, please register and submit 
-your report directly on [our 
-portal](https://portal.bugbounty.swisscom.ch/). See 
-[5.4.1 Registration](#541-registration). 
+your report directly on our portal 🌐 [bugbounty.swisscom.ch](https://portal.bugbounty.swisscom.ch/). For details, refer to section 
+[5.4.1 Registration](#541-registration).
 
-To report a security vulnerability to Swisscom without participation in 
-the Bug Bounty Programme or for any other enquiries, please contact us 
-by e-mail. 
+### 2.2 Coordinated Vulnerability Disclosure
+To report a security vulnerability to Swisscom outside of 
+the Bug Bounty Programme, or for any other enquiries, please contact us 
+by e-mail at <bug.bounty@swisscom.com>. 
 
-<table>
-  <tr>
-    <td>E-mail</td>
-	<td><a href="mailto:bug.bounty@swisscom.com">bug.bounty@swisscom.com</a></td>
-  </tr>
-  <tr>
-    <td>PGP key ID</td>
-    <td>D7C7CE45C6817513</td>
-  </tr>
-  <tr>
-    <td>PGP fingerprint</td>
-    <td>9423 3225 7E5F 5A65 425F 8807 D7C7 CE45 C681 7513</td>
-  </tr>
-  <tr>
-    <td>PGP public key</td>
-	<td>
-	 <a href="https://github.com/swisscom/bugbounty/blob/main/assets/pgp/bug-bounty_19052024-19052026.asc">
-	  Public key
-	 </a>
-	</td>
-  </tr>
-  <tr>
-   <td>Portal link</td>
-   <td>
-    <a href="https://portal.bugbounty.swisscom.ch/">
-     Bug Bounty Portal
-	</a>
-   </td>
-  </tr>
-  <tr>
-    <td>Postal address</td>
-	<td>
-	  Swisscom (Switzerland) Ltd<br>
-	  GSE-SEL<br>
-	  Bug Bounty Programme<br>
-	  Förrlibuckstrasse 60/62<br>
-	  CH-8005 Zürich<br>
-	  Switzerland
-	</td>
-  </tr>
-</table>
+For encrypted communication, PGP and S/MIME keys are available at:
+<https://secmail.swisscom.com/responsiveUI/login/webmailLogin.xhtml>
 
 
 ## 3 Responsible Disclosure Policy
