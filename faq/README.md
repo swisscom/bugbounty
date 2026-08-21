@@ -2,6 +2,13 @@
 
 ### What are the different issue states in Jira?
 
+A report and its payout are tracked in two separate Jira projects.
+
+- **SCBB** is the Swisscom Bug Bounty project. A report lives here from submission to closure, and this is where all technical discussion and the bounty rating happen.
+- **BBADM** is the Bug Bounty Administration project. It covers the payout only. You will be invited once a finding is rewarded.
+
+#### SCBB: the report
+
 | State | Description |
 | --- | --- |
 | `OPEN` | The submission was received and is under initial review. |
@@ -10,13 +17,22 @@
 | `VERIFICATION` | A fix has been implemented. We ask the reporter to test and confirm whether the issue is fully resolved. |
 | `RESOLVED` | The vulnerability has been fixed. The reporter and/or the bug bounty team confirmed the remediation. |
 | `IMPACT ASSESSMENT` | We are waiting for additional information before assigning a bounty (e.g. impact details). |
+| `PAYOUT PROCESSING` | The report has been rated and a bounty awarded. A payout ticket has been opened in BBADM and the reporter has been invited to it. The report stays in this state while the payout is processed. |
+| `PAYOUT DISPUTE` | The reporter disagrees with the awarded bounty. |
+| `CLOSED` | The submission has been closed. |
+| `CNR` | The issue won’t be fixed or was postponed, the submission has been closed. |
+
+#### BBADM: the payout
+
+| State | Description |
+| --- | --- |
+| `READY FOR PAYOUT` | The payout ticket has been created and is queued for processing. |
 | `REQ. BANK DETAILS` | We are ready to issue a bounty but still need the reporter’s bank account information. |
 | `SANCTIONS CHECK` | We are reviewing the reporter's identity and bank information against international sanctions and compliance lists. This is a required step before payment can proceed. |
 | `PAYOUT INITIATED` | The bounty amount has been set and the payment process has been initiated. |
 | `PAYOUT ISSUE` | There is an issue or a delay in processing the payment (e.g. failed sanctions check, rejected bank details, bounced payment). |
-| `PAYOUT DISPUTE` | The reporter disagrees with the awarded bounty (e.g. amount too low). |
-| `CLOSED` | If a bounty was awarded, the payout is initiated and will be processed by the bank within 2–3 days. The payment may take up to 21 days to arrive. Issues can be reopened if needed.  |
-| `CNR` | The issue won't be fixed but has been paid out. Payment will be processed by the bank within 2–3 days and may take up to 21 days to arrive. Issues can be reopened if needed. |
+| `WAITING ON BB TEAM` | The payout is on hold while the bug bounty team re-evaluates the awarded amount or does any other task. |
+| `CLOSED` | The payout is initiated and will be processed by the bank within 2-3 days. The payment may take up to 21 days to arrive. Issues can be reopened if needed. |
 
 
 ### What's in scope, what's out of scope?
