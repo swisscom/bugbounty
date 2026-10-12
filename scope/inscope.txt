@@ -71,7 +71,6 @@ zabbix.mtf.li
 *.ellb.ch
 *.h-net.ch
 *.hcard.ch
-*.helloclass.ch
 *.intswisscom.com
 *.ip-plus.net
 *.jlr-connect.ch
