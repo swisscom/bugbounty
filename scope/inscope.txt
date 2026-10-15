@@ -152,6 +152,8 @@ https://github.com/swisscom/
 *.websheep.com
 
 # Swisscom Event & Media Solutions AG
+*.eventcore.io
+*.eventict.ch
 *.swisscomstream.ch
 *.truvami.com
 *.veertly.ch
