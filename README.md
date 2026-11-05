@@ -380,6 +380,13 @@ accepted and rewarded.
  be based on verified evidence with a clear reproduction demonstrating 
  the vulnerability. Reports containing primarily unsupported or 
  hypothetical claims (often AI-generated) may be deprioritized or rejected.
+ 8. Reports and related communications must be clear, concise and written
+ in your own words. Do not submit lengthy, unedited AI-generated explanations.
+ You are responsible for ensuring that your submissions are accurate, relevant
+ and easy to understand. Clear communication helps us assess reports efficiently.
+
+Reports that do not comply with these Reporting Guidelines may be
+deprioritized or rejected.
 
 
 ### 5.6 Rewards
